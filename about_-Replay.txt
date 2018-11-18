@@ -1,0 +1,111 @@
+﻿<b>Riconoscimenti:</b>
+
+Ciao,
+mi chiamo Lara Luu e sono il robot che ti assiste durante la gara.
+
+Desidero ringraziare la D.S. avv. Annunziata Langella, il "Team per l'Innovazione digitale" e tutti i docenti del Liceo Nobel che hanno sostenuto e reso possibile questa iniziativa.
+		
+In modo particolare ringrazio calorosamente coloro che hanno collaborato a predisporre gli enigmi della caccia al tesoro.
+
+Infine, mando un saluto affettuoso ad Andrea e Bruno Sarto che mi hanno ideata e programmata.
+
+                               Lara Luu
+			   
+──────────────
+
+<b>Chestnut 2018 Replay</b>
+
+A partire dalla classifica finale della gara, Chestnut 2018 Replay da la possibilità a tutti gli utenti di affrontare i quesiti della gara avendo a disposizione gli inidizi con l'attesa di pochi minuti e con le soluzioni in chiaro nel presente documento.
+Il server, dopo un breve periodo di inutilizzo, ripristina i valori originari della classifica.
+
+E' possibile ripartire dal livello 0 eseguendo il comando /start
+
+<b>Soluzioni</b>
+Per ciascun livello è valida qualsiasi frase che contenga le parole indicate accanto al numero del livello
+
+1: calamita
+2: promessi sposi
+3: memoria
+4: targa
+5: ricerca nemo
+6: arancini
+7: leopardi
+8: malala
+9: nemo propheta in patria
+10: Giuseppe Castiglione
+11: 369889
+12: dama l'ermellino
+13: l'ossimetro
+14: verrocchio
+15: petronio
+16: nome rosa
+17: matteo ricci
+18: 115121151
+19: effetto mpemba
+20: johnson
+21: otto
+22: di piemonte
+23: washington
+24: 610001
+25: sant'elena
+26: fuggente
+27: marte
+28: natale casa cupiello
+29: casa
+30: torrese
+31: magritte vermeer van gogh escher
+32: rudyard kipling
+33: giuseppe
+34: 43215
+35: elettrone
+36: don quijote
+37: melagrana
+38: cane
+39: 2927
+40: alano
+41: guernica
+42: dsnrnd68b29g499u
+43: pertini
+44: 875
+45: mutamenti
+46: taj mahal san pietro
+47: l'elefante e una farfalla
+48: kennedy
+49: 3 5
+50: 1113213211
+51: ora
+52: jofi
+53: 28/02/1975
+54: protone
+55: svevo
+56: toro tigre lupo maiale
+57: window
+58: stalin
+59: caduta libera
+60: 173561
+61: ipercubo
+62: mao zedong
+63: palazzo te
+64: marziano
+65: gasteropodi
+66: wang wei
+67: simone di cirene
+68: parigi
+69: goldbach
+70: sator
+71: 5 de enero
+72: elefante alce leone istrice
+73: john lennon
+74: capodanno
+75: est
+76: oliva
+77: moreno
+78: frase nascosta
+79: 4500
+80: mayday
+81: 19928
+82: fleming
+83: ossa di drago
+84: sinistra
+85: 53214
+86: mancino

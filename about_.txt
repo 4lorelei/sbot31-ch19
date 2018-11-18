@@ -1,0 +1,40 @@
+﻿<b>Regolamento:</b>
+
+1. la caccia al tesoro è riservata agli studenti del Liceo Nobel
+
+2. ad ogni enigma occorre rispondere con una o più parole, numeri o codici; il bot non fa distinzione tra minuscole e maiuscole e  considera corretta ogni risposta che includa tutte le parole previste nella soluzione, indipendentemente dall'ordine; gli apostrofi e le lettere accentate, se presenti nella soluzione, devono essere inseriti correttamente
+
+3. tramite i pulsanti "enigma" e "indizi" è possibile visualizzare l'enigma corrente e gli indizi disponibili per l'enigma; nuovi indizi si rendono disponibili con il passare del tempo
+
+4. quando un enigma è stato risolto, il bot propone automaticamente quello successivo, fino al raggiungimento dell'ultimo enigma che conduce al tesoro
+
+5. quando un giocatore trova il tesoro pone fine alla gara per tutti i giocatori 
+
+6. i giocatori hanno la possibilità di impostare un "nickname" (nome di fantasia usato durante la gara) e di registrarsi inserendo i propri dati anagrafici; la registrazione è obbligatoria per essere inseriti nella classifica ufficiale e concorrere alla premiazione finale
+
+7. un giocatore che ha impostato il nickname può costituire un "team" e aggiungere ad esso altri giocatori (anche questi ultimi devono aver impostato il nickname)
+
+8. è possibile visualizzare in tempo reale la classifica con i livelli occupati dai giocatori singoli e dai team; la calssifica generale non tiene conto dei giocatori anonimi e ordina i concorrenti in base ai livelli, le stelle e la data di accesso all'ultimo livello 
+
+9. è possibile inviare segnalzioni all'admin tramite la chat dedicata
+
+10. il giocatore che per primo supera un livello conquista una "stella" di cui beneficierà anche il team
+
+11. nel momento in cui un giocatore entra a far parte di un team già esistente, perde le "stelle" che aveva conquistato in precedenza; se un giocatore esce da un team o ne costituisce uno, non perde le stelle già conquistate
+
+12. ulteriori informazioni sono incluse nelle FAQ scaricabili tramite il pulsante "faq"
+
+──────────────
+
+<b>Riconoscimenti:</b>
+
+Ciao,
+mi chiamo Lara Luu e sono il robot che ti assiste durante la gara.
+
+Desidero ringraziare la D.S. avv. Annunziata Langella, il "Team per l'Innovazione digitale" e tutti i docenti del Liceo Nobel che hanno sostenuto e reso possibile questa iniziativa.
+		
+In modo particolare ringrazio calorosamente coloro che hanno collaborato a predisporre gli enigmi della caccia al tesoro.
+
+Infine, mando un saluto affettuoso ad Andrea e Bruno Sarto che mi hanno ideata e programmata.
+
+                               Lara Luu

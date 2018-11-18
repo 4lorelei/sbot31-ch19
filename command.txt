@@ -1,0 +1,9 @@
+help - indizi per il livello corrente
+refresh - ripete la domanda
+stat - info sulla gara
+ranking - visualizza classifica
+chat - invia messaggio all'admin
+nick - imposta il nickname
+team - crea e gestisce il team
+register - registra l'utente
+about - info e faq sul bot

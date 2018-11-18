@@ -1,0 +1,203 @@
+﻿﻿﻿========== LaraLuu Bot ==========
+FAQ - Frequently Asked Questions
+
+ENIGMI
+1. Come rispondo agli enigmi?
+2. Quando viene considerata corretta una risposta?
+3. C'è differenza tra maiuscole e minuscole?
+4. A cosa serve il comando /help?
+5. Come posso visualizzare nuovamente l'ultimo enigma?
+6. Con che criterio vengono forniti gli aiuti?
+7. Posso sapere quando sarà disponibile il prossimo aiuto?
+8. Non riesco a risolvere l'enigma di un livello, cosa faccio?
+9. Cosa sono e come si conquistano le "stelle"?
+
+NICKNAME
+10. Cos'è il nickname?
+11. Posso giocare senza impostare il nickname?
+12. Posso cambiare il mio nickname?
+
+SQUADRA
+13. Siamo un gruppo di amici, come formiamo una squadra?
+14. Finora ho partecipato come giocatore singolo e ho già superato dei livelli, posso costituire una squadra?
+15. Un amico ha già conquistato delle "stelle" e vuole associarsi alla mia squadra, può farlo?
+16. Posso associare alla mia squadra un amico che non ha impostato il nickname?
+17. Come posso uscire dalla squadra con la quale ho giocato finora? Posso conservare le "stelle" che ho conquistato?
+18. Posso cambiare il nome della squadra?
+19. Come posso conoscere la formazione di un team? Come sono conteggiate le "stelle" di un team?
+
+CLASSIFICA
+20. Come visualizzo la classifica?
+21. Chi vince la gara?
+22. La classifica finale è influenzata dalle "stelle"?
+23. Cosa sono i giocatori "anonimi"?
+24. Ci sono altre classifiche?
+
+STATO DELLA GARA
+25. Il bot non accetta alcuna richiesta e risponde dicendo che la gara non è ancora iniziata. Come vengo informato quando la gara ha inizio?
+26. Il bot non accetta alcuna richiesta e risponde dicendo che è in pausa. Cosa significa?
+27. Cosa succede quando un giocatore trova il tesoro?
+
+REGISTRAZIONE
+28. Perché occorre registrarsi?
+29. E' obbligatorio registrarsi?
+30. Chi può accedere ai dati di registrazione?
+
+PREMI
+31. Chi è premiato?
+32. Quanti premi ci sono? 
+
+ABUSI
+33. Quali comportamenti sono vietati e quali provvedimenti possono essere presi nei confronti di chi ha un comportamento scorretto?
+
+=================================
+
+ENIGMI
+1. Come rispondo agli enigmi?
+Per interpretare correttamente un enigma è necessario prestare attenzione sia al contenuto che viene subito mostrato al superamento di ogni livello che ai messaggi di testo visualizzabili tramite il pulsante "indizi".
+Per rispondere è sufficiente digitare la risposta che si ritiene corretta e inviare il messaggio.
+
+2. Quando viene considerata corretta una risposta?
+Una risposta è considerata corretta se la risposta data è costituita da meno di 50 caratteri (spazi inclusi) e include tutte parole che compongono la soluzione. Gli apostrofi e gli accenti, se presenti nella soluzione, devono essere inseriti correttamente. Esempi:
+
+Soluzione:
+L'isola che non c'è
+
+Risposte corrette:
+L'isola che non c'è
+Bennato l'isola che non c'è
+Che non c'è l'isola
+L'isola che non c'è di Bennato
+
+Risposte scorrette:
+La isola che non c'è
+Isola che non c'è
+L'isola che non c'e'
+L'isola che non c'è è una canzone di Bennato che fa parte dell'album Sono solo canzonette
+
+3. C'è differenza tra maiuscole e minuscole?
+No, non c'è differenza tra maiuscole e minuscole
+
+4. A cosa serve il pulsante "indizi"?
+Il comando mostra tutti gli aiuti associati all'enigma corrente, abilitati in quel momento.
+E' possibile conoscere l'istante in cui si abiliteranno nuovi indizi tramite il pulsante "tabellino" (presente all'interno del menu "gara")
+
+5. Come posso visualizzare nuovamente l'ultimo enigma?
+Tramite il pulsante "enigma"
+
+6. Con che criterio vengono forniti gli indizi?
+Per ogni livello sono predefiniti degli intervalli di tempo superati i quali si abilitano automaticamente gli indizi.
+
+7. Posso sapere quando sarà disponibile il prossimo indizio?
+E' possibile conoscere l'istante in cui si abiliterà un nuovo indizio tramite il pulsante "tabellino" (presente all'interno del menu "gara")
+
+8. Non riesco a risolvere l'enigma di un livello, cosa faccio?
+Se non sono ancora abilitati tutti gli indizi per il livello corrente, puoi sperare di risolvere l’enigma con i nuovi indizi che riceverai. Diversamente puoi consultare amici o conoscenti per richiedere un supporto. In ultima analisi ci sono i forum...
+
+9. Cosa sono e come si conquistano le "stelle"?
+Le "stelle" sono un indice che rappresenta l’abilità di un giocatore a risolvere rapidamente gli enigmi. Infatti, un giocatore conquista una stella quando, tra tutti i partecipanti, è il primo a superare un dato livello.
+Le "stelle" associate ad un team corrispondono alla somma delle "stelle" dei suoi giocatori.
+
+NICKNAME
+10. Cos'è il nickname?
+Il nickname è un nome di fantasia con il quale un giocatore si rende identificabile durante la gara. Può essere scelto qualsiasi nome non utilizzato da altri che non sia volgare e/o offensivo.
+Eventuali spazi presenti nel nome sono automaticamente rimossi e sostituiti con il carattere "_".
+
+11. Posso giocare senza impostare il nickname?
+Sì, puoi giocare senza impostare il nickname, anche se questo comporta alcuni inconvenienti:
+non comparirai nella classifica generale ma solo nella classifica per livelli dove sarai segnalato come giocatore anonimo
+non potrai essere associato ad una squadra già costituita.
+
+12. Posso cambiare il mio nickname?
+Sì, è possibile cambiare il proprio nickname. Questa modifica non altera in alcun modo la classifica né il computo delle "stelle".
+
+SQUADRA
+13. Siamo un gruppo di amici, come formiamo una squadra?
+Una squadra può essere costituita e modificata in qualsiasi momento, tuttavia l’ideale è formare la squadra all’inizio della partita, subito dopo che ogni giocatore ha impostato il proprio nickname.
+Procedere nel seguente modo:
+- uno dei giocatori, preferibilmente quello con il maggior numero di "stelle", crea una squadra tramite il pulsante "crea" (presente nel menu "profilo"/"team") 
+- tutti gli altri giocatori sbloccano la propria utenza tramite il pulsante "sblocca" (presente nel menu "profilo"/"team") 
+- il primo giocatore, associa ciascuno degli amici tramite il pulsante "aggiungi" (presente nel menu "profilo"/"team").
+Si precisa che nel momento in cui un giocatore è associato ad una squadra, perde le eventuali "stelle" conquistate ed è automaticamente posizionato sul livello in cui la squadra si trova.
+Tutti i giocatori della squadra avanzano di livello contestualmente, ogni volta che un giocatore del team supera il livello.
+
+14. Finora ho partecipato come giocatore singolo e ho già superato dei livelli, posso costituire una squadra?
+Si, puoi costituire una squadra, senza che questo alteri la tua classifica e senza perdere eventuali "stelle".
+Da evidenziare che gli amici che si associeranno alla tua squadra perderanno le stelle conquistate e verranno automaticamente  posizionati sul tuo livello.
+
+15. Un amico ha già conquistato delle "stelle" e vuole associarsi alla mia squadra, può farlo?
+Sì, puoi associarlo ma perderà le stelle conquistate.
+
+16. Posso associare alla mia squadra un amico che non ha impostato il nickname?
+I giocatori che non hanno un nickname impostato non possono essere associati ad una squadra già costituita.
+
+17. Come posso uscire dalla squadra con la quale ho giocato finora? Posso conservare le "stelle" che ho conquistato?
+Per uscire dalla squadra con la quale stai giocando devi utilizzare il pulsante "esci" (presente nel menu "profilo"/"team").
+Questa variazione non modifica il tuo livello né comporta la perdita di "stelle".
+
+18. Posso cambiare il nome della squadra?
+No, il nome della squadra non può essere cambiato.
+
+19. Come posso conoscere la formazione di un team? Come sono conteggiate le "stelle" di un team?
+E' possibile visualizzare la formazione di un team tramite il pulsante "team" presente nel menu "gara".
+Le stelle associate ad un team corrispondono alla somma delle stelle dei giocatori della squadra.
+
+CLASSIFICA
+20. Come visualizzo la classifica?
+Per visualizzare la classifica usa il pulsante "classifica" (presente nel menu "gara").
+Per avere un riepilogo per livelli utilizza il pulsante "livelli" (presente nel menu "gara"). Per ottenere il dettaglio di un livello, ad esempio il settimo, usa il pulsante "dettagli" (presente nel menu "gara") e specifica il livello di tuo interesse.
+
+21. Chi vince la gara?
+La gara è vinta da chi trova il tesoro oppure da chi è primo in classifica quando termina la gara (questo secondo caso si presenta quando nessuno trova il tesoro nei tempi stabiliti).
+
+22. La classifica finale è influenzata dalle "stelle"?
+La classifica finale si basa sui livelli raggiunti da ciascun concorrente.
+I concorrenti (team o giocatori singoli) che si trovano sullo stesso livello sono ordinati in base ai seguenti criteri:
+- il numero di "stelle" conquistate (nel caso dei team le stelle complessive)
+- a parità di "stelle", la data/ora di raggiungimento del livello 
+
+23. Cosa sono i giocatori "anonimi"?
+In classifica appaiono come anonimi i giocatori singoli che non hanno impostato il nickname.
+Per questi giocatori non sono mostrate le "stelle" conquistate.
+
+24. Ci sono altre classifiche?
+Si, similmente a come avviene nel gioco del calcio dove si considera anche la classifica cannonieri, è stilata anche una classifica parallela che tiene conto delle "stelle" conquistate.
+
+STATO DELLA GARA
+25. Il bot non accetta alcuna richiesta e risponde dicendo che la gara non è ancora iniziata. Come vengo informato quando la gara ha inizio?
+Gli orari di inizio della gara e delle variazioni di stato (sospensioni e ripartenze), sono comunicati tramite messaggi inviati anticipatamente o contestualmente alla variazione di stato.
+E’ anche possibile che una sospensione avvenga per problemi tecnici (indisponibilità del server che ospita il bot): in questo caso, ovviamente, non può esserci alcuna notifica.
+
+26. Il bot non accetta alcuna richiesta e risponde dicendo che è in pausa. Cosa significa?
+Il bot viene posto in pausa per dare una "tregua" ai giocatori ed evitare maratone estenuanti.
+Quando il bot è in pausa non è possibile avere alcuna interazione utile.
+
+27. Cosa succede quando un giocatore trova il tesoro?
+Quando un giocatore trova il tesoro la gara ha termine e il bot non accetta nessuna ulteriore risposta.
+Nessun nuovo giocatore può aggiungersi al bot ma alcuni comandi restano abilitati per i giocatori che hanno preso parte alla gara (è possibile visualizzare la classifica e utilizzare la chat).
+
+REGISTRAZIONE
+28. Perché occorre registrarsi?
+Per essere inclusi nella classifica finale e concorrere alla premiazione è indispensabile registrarsi.
+La registrazione deve essere completata prima della fine della gara (quando la gara ha termine la registrazione non è più accettata dal bot).
+
+29. E' obbligatorio registrarsi?
+No, per partecipare alla gara non è obbligatorio registrarsi. Tuttavia occorre tenere presente che, per essere inclusi nella classifica finale e concorrere alla premiazione, è indispensabile.
+
+30. Chi può accedere ai dati di registrazione?
+I dati di registrazione sono gestiti dagli organizzatori e sono significativi ai fini della premiazione finale, che sarà pubblicizzata nell'ambito della scuola.
+
+PREMI
+31. Chi è premiato?
+Sono premiati i migliori concorrenti (team o giocatori singoli) nella classifica generale e il giocatore che ha conquistato il maggior numero di "stelle".
+
+32. Quanti premi ci sono? 
+Il numero e la qualità dei premi dipende da un insieme di circostanze contingenti. Gli organizzatori assicurano il massimo sforzo per rendere interessanti i premi per un numero significativo di giocatori. 
+
+ABUSI
+33. Quali comportamenti sono vietati e quali provvedimenti possono essere presi nei confronti di chi ha un comportamento scorretto?
+Non è ammesso effettuare registrazioni con nomi volgari o offensivi, né spacciarsi per altri.
+In chat con l'admin occorre mantenere un linguaggio formale né eccedere con le segnalazioni o le richieste.
+E' assolutamente vietato provocare direttamente o indirettamente danni agli altri giocatori o compromettere lo svolgimento della gara.
+I giocatori che non si attengono alle indicazioni fornite possono essere esclusi ("bannati") dalla gara su insindacabile giudizio dell'admin.
+Nel caso di gravi scorrettezze potranno essere presi provvedimenti disciplinari in concerto con gli organi competenti della scuola. 

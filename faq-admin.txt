@@ -1,0 +1,228 @@
+========== LaraLuu Bot ==========
+============ ADMIN ============== 
+FAQ - Frequently Asked Questions
+
+PREDISPOSIZIONE DI UN NUOVO BOT TELEGRAM
+1. Come creo un nuovo bot?
+2. Come imposto i comandi utente del bot?
+3. Come carico un'immagine per il bot?
+
+PREDISPOSIZIONE DEL SERVER SU HEROKU
+4. Come creo un server con Heroku?
+5. Come collego il bot al server?
+6. Come effettuo la prima interazione con il client telegram?
+7. Come evito che il server vada in sleep?
+8. Come imposto il max numero di giocatori in team e come effettuo il backup dei dati?
+
+GESTIONE DELLA GARA
+9. Come gestisco l'approssimarsi della gara?
+10. Coma avvio la gara?
+11. Come mando in pausa il bot a fine giornata?
+12. Il bot si è riavviato senza che io facessi nulla, cosa devo fare?
+13. Come ripristino un backup?
+14. In quali momenti è più opportuna inviare notifiche a tutti gli utenti?
+15. Posso comunicare con gli utenti duarante la gara?
+16. Posso escludere un utente dalla gara?
+17. Voglio concludere la gara anche se nessuno ha trovato il tesoro, come faccio?
+
+STATI
+18. Che differenza c'è tra i vari stati del bot?
+19. Quando il bot è nello stato da_avviare cosa può fare l'utente?
+20. Che differenza c'è tra gli stati da_ripristinare e in_pausa?
+21. Quando il bot è nello stato terminato cosa può fare l'utente?
+
+PREDISPOSIZIONE DEGLI ENIGMI
+22. Come predispongo gli enigmi?
+23. Posso aggiungere nuovi enigmi in corso d'opera?
+24. Come gestisco i "riconoscimenti"?
+
+CLASSIFICA
+25. Come genero la classifica finale?
+
+RELAY DELLA GARA
+26. Cos'è Chestnut Replay?
+27. Come organizzo Chestnut Replay a fine gara?
+
+
+-----------------------
+
+PREDISPOSIZIONE DI UN NUOVO BOT TELEGRAM
+1. Come creo un nuovo bot?
+Sul client telegram ricercare BotFather e avviarlo.
+Le interazioni sono gidate.
+
+2. Come imposto i comandi utente del bot?
+Non vanno impostati
+
+3. Come carico un'immagine per il bot?
+L'icona da associare al bot va inviata tramite BotFather.
+
+PREDISPOSIZIONE DEL SERVER SU HEROKU
+4. Come creo un server con Heroku?
+Occorre disporre di un account sul cloud heroku e creare una nuova "personal app" (diciamo xxx). 
+L'app va collegata a dropbox.
+Solo a questo punto nella cartella Dropbox/Apps/Heroku/xxx vanno copiati i sorgenti del bot.
+
+5. Come collego il bot al server?
+Utilizzare telegram web per collegarsi a BotFather e copiare il token del bot creato su telegram.
+Editare il file register.php presente nella cartella di Dropbbox del server ed inserire i dati come nell'esempio:
+
+- $WEBHOOK_URL = 'https://xxx.herokuapp.com/execute.php';
+- $BOT_TOKEN = '261632685:AAEZIe_1Ausl3Szo8XK_jlqsydpCHaDy4DM';
+
+Deployare l'applicazione su Heroku.
+
+Dal browser richiamare:
+- https://xxx.herokuapp.com/register.php
+
+6. Come effettuo la prima interazione con il client telegram?
+Primo scenario: 
+===============
+Eri già amministratore nella gara precedente
+- Collegati con il cliente telegram ed effettua uno dei seguenti comandi:
+  - /reset bot (subito dopo effettua una interazione con il bot per diventare ADMIN)
+  oppure
+  - /reset game -n (mantiene le chatId della precedente gara consentendo messaggi broadcast)
+
+Secondo scenario: 
+=================
+Non eri amministratore nella precedente gara
+- Cancella i file "amministratore.txt" e "livello.txt" dalla cartella di Dropbox.
+- Deploya su Heroku.
+- Effettua una prima interazione con il bot.
+
+In entrambi gli scenari:
+========================
+Porta il bot nell stato in_pausa con il comando /match sleep -s
+Effettua il backup dei file "amministratore.txt" e "livello.txt" con i comandi /backup 1 e /backup 3 oppure 
+tramite browser puntando alle seguenti pagine:
+   http://xxx-bigbugs.herokuapp.com/livello.txt 
+   http://laraluu31-bigbugs.herokuapp.com/amministratore.txt
+Copia i file nelle cartelle di Dropbox
+Deploya su Heroku
+
+7. Come evito che il server vada in sleep?
+Heroku prevede che le app "Free Dynos" entrino in pausa dopo 30 minuti di inattività. Alla ripartenza tutte le modifiche registrate dall'app nei file vanno perse.
+Per evitare che Heroku vada in sleep vi sono le seguenti possibilità:
+- Effettuare l'upgrade dell'app a "Hobby Dynos" (al costo di circa 7 euro al mese)
+- Accedere all'app periodicamente tramite un servizio specializzato nel ping (es.http://uptimerobot.com)
+- Accedere all'app periodicamente per effettuare il backup (es. tramite IFTTT)
+
+8. Come effettuo il backup dei dati?
+Il massimo numero di giocatori in team si imposta con il comando /maxteam num che effettua una registrazione nel file amministratore.txt che quindi deve essere deployato dopo l'aggiornamento.
+Il backup può essere effettuato a mano tramite i comandi /backup 1  ... /backup 5
+I file che devono essere salvati periodicamente sono "livello.txt" e "anagrafica.txt" (/backup 1 e /backup 5).
+/backup 2 (aiuti) deve essere eseguito se si modificano i tempi degli aiuti tramite /enable
+/backup 3 (admin) deve essere effettuato se si aggiungono amministratori tramite /admin
+/backup 4 (blacklist) deve essere effettuato se si gestisce la blacklist ramite /blacklist
+
+Per effettuare un backup automatico si può utilizzare un sito come IFTTT per programmare la copia periodica dei file https://xxx.herokuapp.com/livello.txt https://xxx.herokuapp.com/anagrafica.txt
+
+GESTIONE DELLA GARA
+9. Come gestisco l'approssimarsi della gara?
+Una volta superata la fase della prima interazione, il bot si porta automaticamente nello stato da_ripristinare dopo ogni riavvio del server Heroku.
+Questo impedisce interazioni da parte degli utenti prima di ripristnatre i dati di backup.
+Quando si è predisposto un piano di backup dei dati si può portare il bot nello stato da_avviare, consentendo la registrazione degli utenti.
+Eseguire /reset game (questo comando non rimuove i dati già inseriti dagli utenti).
+
+10. Coma avvio la gara?
+Se il numero di utenti è significativo (oltre cento) cercare di evitare notifiche broadcast a gara in corso o all'avvio.
+Mentre lo stato del bot è da_avviare (o in_pausa o da_ripristinare) inviare un mesaggio broadcast per avvisare dell'inizio della gara ad un dato orario e della messa in pausa a fine giornata.
+Eseguire /match start -t gg/mm/aaaa hh:mm  (oppure /match start -s)
+
+E' comunque possibile eseguire /match start per avvisare automaticamente dell'inizio della gara.
+
+11. Come mando in pausa il bot a fine giornata?
+E' preferibile evitare di inviare troppi messaggi broadcast a gara in corso. 
+Quindi se l'orario di chiusura è già noto eseguire /match sleep -s oppure utilizzare il comando a tempo /match sleep -t gg/mm/aaaa hh:mm
+Successivamente inviare messaggi broadcast.
+E' comunque possibile eseguire /match sleep per avvisare automaticamente della sospensione della gara.
+Esegui il backup dei file con il comando /backup
+Installa i file su Dropbox
+Deploya su Heroku
+
+12. Il server Heroku si è riavviato senza che io facessi nulla, cosa devo fare?
+Recupera i file di backup più recenti di cui disponi e copiali nella cartella di Dropbox.
+Deploya su Heroku.
+Invia un mesaggio broadcast per avvisare che viene ripristinata la situazione di una certo orario.
+Avvia il bot con /match go -s
+
+13. Come ripristino un backup?
+Mentre il bot è in pausa copia i file di backup più recenti di cui disponi nella cartella di Dropbox.
+Deploya su Heroku.
+
+14. In quali momenti è più opportuna inviare notifiche a tutti gli utenti?
+Mentre il bot è in pausa, ma è possibile farlo in qualsiasi momento (deve trascorrere almeno un minuto tra un messaggio broadcast 
+o multicast e il successivo)
+
+15. Posso comunicare con gli utenti duarante la gara?
+Con il comando /unicast non vi sono limitazioni.
+Con il comando /multicast e /broadcast occorre attendere almeno un minuto tra un messaggio e l'altro
+
+16. Posso escludere un utente dalla gara?
+Sì, tramite il comando /blacklist
+
+17. Voglio concludere la gara anche se nessuno ha trovato il tesoro, come faccio?
+Esegui /match end -s
+
+STATI
+18. Che differenza c'è tra i vari stati del bot?
+Stato da_avviare: il bot è in questo stato dopo aver eseguito i comandi /reset bot o /reset game. Anche effettuando un deploy dopo aver rimosso il file "amministratore.txt" il bot si porta in questo stato. Per avviare il bot eseguire il comando /match start -s oppure /match start -t gg/mm/aaaa hh:mm
+
+Stato da_ripristinare: si verifica dopo una ripartenza del server Heroku. Da questo stato si dovrebbe uscire dopo aver ripristinato i dati di backup. Eseguire uno dei comandi 
+- /reset game (fa ripartire la gara da zero)
+- match go -s (avvia la gara)
+- match sleep -s (porta la gara in pausa)
+Non è possibile eseguire i comandi a tempo.
+In questo stato l'utente non intwerazioni utili con il bot.
+
+Stato in_pausa: si entra in questo stato eseguendo /match sleep -s. Da questo stato si esce eseguendo /match go -s
+In questo stato l'utente non intwerazioni utili con il bot.
+
+Stato terminato: si entra in questo stato quando la gara termina. Gli utenti possono eseguire solo interrogazioni al bot senza effettuare registrazioni.
+Quando si entra in questo stato è bene ripristinare gli ultimi backup (file "amministratore.txt" incluso) e dployare su Heroku.
+
+19. Quando il bot è nello stato da_avviare cosa può fare l'utente?
+Può registrarsi, chattare con l'admin, vedere le classifiche.
+
+20. Che differenza c'è tra gli stati da_ripristinare e in_pausa?
+Nello stato da_ripristinare si entra in autiomatico dopo un riavvio. In questo stato i comandi a tempo non possono essere eseguti. Gli utenti non possono eseguire interazioni utili come nel caso dello stato in_pausa.
+Lo stato in_pausa è uno stato nel quale si entra eseguendo il comando /match sleep -s
+
+21. Quando il bot è nello stato terminato cosa può fare l'utente?
+Gli utenti possono eseguire solo interrogazioni al bot senza effettuare registrazioni. Non possono inserirsi nuovi utenti né può essere alterata la classifica.
+
+PREDISPOSIZIONE DEGLI ENIGMI
+22. Come predispongo gli enigmi?
+Va compilato il file domande.xml e copiati i file di risorse nelle opportune cartelle.
+Il file può essere aggiornato aggiungendo domande su nuovi livelli anche a gara in corso.
+Naturalmente deve essere effettuato un aggiornamento del file su Dropbox e successivamente un deploy su Heroku.
+
+23. Posso aggiungere nuovi enigmi in corso d'opera?
+Il file può essere aggiornato aggiungendo domande su nuovi livelli anche a gara in corso.
+Naturalmente deve essere effettuato un aggiornamento del file su Dropbox e successivamente un deploy su Heroku.
+
+24. Come gestisco i "riconoscimenti" e le faq?
+Deve essere aggiornato il file "about_.txt e faq_.txt" (i file about.txt e faq.txt sono obsoleti in quanto richiamati 
+dall'interfaccia a comandi)
+
+CLASSIFICA
+25. Come genero la classifica finale?
+Con il comando /export
+
+RELAY DELLA GARA
+26. Cos'è Chestnut Replay?
+A fine gara è possibile consentire ai giocatori già registrati o a nuovi giocatori di svolgere tutta la gara e accedere velocemente
+agi indizi e alle risposte complete.
+La classifica si aggiorna provvisoriamente perché periodicamente (al reboot di Heroku) si ripristina la classifica originale.
+
+27. Come organizzo Chestnut Replay a fine gara?
+Per predisporre il Replay della gara occorre:
+- modificare domande.xml
+  . portare i tempi di attesa degi indizi a 1,2 e 3 minuti
+  . modificare il tipo di enigma dell'ultima domanda (da "chiusura" passare a "immagine") e i tempi di attesa degli indizi
+  . modificare il testo della domanda 0 predisponendo la presentazione di Chestnut Replay
+- sostituire il file about_.txt con about_Replay.txt
+- copiare amministratore-Replay.txt su amministratore.txt (aggiornare l'id dell'admin)
+- copiare monitor-Replay.txt su monitor.txt
+- copiare restore-Replay.txt su restore.txt

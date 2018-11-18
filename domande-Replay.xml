@@ -1,0 +1,1373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tesoro>
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+Benvenuto in Chestnut 2018 Replay.
+Gli avanzamenti nei livelli ed eventauli registrazioni saranno annullati dopo un breve periodo di inutilizzo del bot e sarà ripristinata la classifica finale della gara.
+
+I tempi di attesa per gli indizi sono di pochi minuti e le soluzioni degli enigmi sono disponibili tramite il menu about/info.
+
+Per ripartire dal livello 0 eseguire il comando /zero
+
+Per continuare tocca il pulsante 'indizi'
+ 
+		</risorsa>
+		<risposta>ok</risposta>
+		<indizio0>conferma inviando il messaggio "OK"</indizio0>
+		<indizio1>non disponibile</indizio1>
+		<indizio2>non disponibile</indizio2>
+		<indizio3>non disponibile</indizio3>
+		<attesa1>999999</attesa1>
+		<attesa2>999999</attesa2>
+		<attesa3>999999</attesa3>
+		<autore>bs regolamento</autore> 
+    </domanda>
+	
+	<!-- valori di default per le attese: 60 120 180 (in minuti) -->
+	<!-- massima attesa visualizzata 1440 (24 h) -->
+	<!-- caratteri significativi nelle risposte: 0-9 a-z A-Z -+*:><=.,èéàòù (no case sensitive) -->
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+indivinello:
+sono molto attraente 
+ma affascinante per niente!
+		</risorsa>
+		<risposta>calamita</risposta>
+		<indizio0>chi è?</indizio0>
+		<indizio1>non è una persona...</indizio1>
+		<indizio2>...e nemmeno un animale</indizio2>
+		<indizio3>è un oggetto metallico</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs indivinello attraente</autore>
+	</domanda>
+		
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/trama_letteraria.jpg</risorsa>
+		<risposta>promessi sposi</risposta>
+		<indizio0>di cosa si tratta?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs Manzoni</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole1.jpg</risorsa>
+		<risposta>memoria</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>quella dell'elefante è proverbiale</indizio1>
+		<indizio2>tutti vorrebbero averla di ferro</indizio2>
+		<indizio3>qualcuno c'è la fotografica</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs personaggi1</autore>
+	</domanda>	
+		
+    <domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/foto_ca.jpg</risorsa>
+		<risposta>targa</risposta>
+		<indizio0>cartolina da Cagliari</indizio0>
+		<indizio1>osserva con attenzione</indizio1>
+		<indizio2>non trovi nulla di strano?</indizio2>
+		<indizio3>la realtà è un'altra cosa!</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs cartolina CA</autore>
+	</domanda>
+	
+    <domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/film.jpg</risorsa>
+		<risposta>ricerca nemo</risposta>
+		<indizio0>il titolo... </indizio0>
+		<indizio1>un figlio unico deve essere ritrovato</indizio1>
+		<indizio2>un padre va alla ricerca di suo figlio con l'aiuto di un'amica smemorata</indizio2>
+		<indizio3>è un film di animazione</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs nemo</autore>
+	</domanda>	
+	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/ricetta.jpg</risorsa>
+		<risposta>arancini</risposta>
+		<indizio0>di quale ricetta si tratta?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs ricetta</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/verso.jpg</risorsa>
+		<risposta>leopardi</risposta>
+		<indizio0>l'autore del verso nasacosto</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs verso</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/discorso.mp3</risorsa>
+		<risposta>malala</risposta>
+		<indizio0>chi pronuncia questo discorso?</indizio0>
+		<indizio1>era il 2013</indizio1>
+		<indizio2>alle Nazioni Unite</indizio2>
+		<indizio3>una studentessa Pakistana</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs Discorso di Malala</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/latino.jpg</risorsa>
+		<risposta>nemo propheta in patria</risposta>
+		<indizio0>rebus... in latino</indizio0>
+		<indizio1>al centro un personaggio biblico</indizio1>
+		<indizio2>l'Italia è la nostra...</indizio2>
+		<indizio3>è un proverbio</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>L. Di Rosa  propheta</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/quadro.jpg</risorsa>
+		<risposta>Giuseppe Castiglione</risposta>
+		<indizio0>l'autore di quest'opera</indizio0>
+		<indizio1>epoca Qing</indizio1>
+		<indizio2>Milano</indizio2>
+		<indizio3>missionario gesuita</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>E. Gaudino  quadro</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/led.jpg</risorsa>
+		<risposta>369889</risposta>
+		<indizio0>
+I pannelli bordati di rosso hanno dei segmenti fulminati pertanto le singole cifre possono essere visualizzate in modo parziale; il pannello bordato di verde, invece, funziona regolarmente. 
+Il risultato della somma è calcolato correttamente, qual è il suo valore?</indizio0>
+		<indizio1>l'ultima cifra a destra del primo pannello è 1</indizio1>
+		<indizio2>la penultima cifra a destra non è 4</indizio2>
+		<indizio3>la terzultima cifra a destra non è 3</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs led</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/ritratto.jpg</risorsa>
+		<risposta>dama l'ermellino</risposta>
+		<indizio0>il titolo...</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs Dama</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>video</tipo>
+		<risorsa>video/joker.mp4</risorsa>
+		<risposta>l'ossimetro</risposta>
+		<indizio0>The Dark Knight - Joker and Two-Face hospital scene... qualcosa non va!!!</indizio0>
+		<indizio1>fai attenzione alle immagini</indizio1>
+		<indizio2>al momento del lancio della moneta</indizio2>
+		<indizio3>è un errore cinematografico</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs Joker</autore>
+    </domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/david.jpg</risorsa>
+		<risposta>verrocchio</risposta>
+		<indizio0>il David: le grandi opere</indizio0>
+		<indizio1>fierezza, coraggio, valore</indizio1>
+		<indizio2>manca un David</indizio2>
+		<indizio3>con la testa di Golia ai piedi</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs David</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/fashion.jpg</risorsa>
+		<risposta>petronio</risposta>
+		<indizio0>risolvi il punto interrogativo</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>L. Di Rosa  fashion</autore>
+	</domanda>	
+	
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/rosa.jpg</risorsa>
+		<risposta>nome rosa</risposta>
+		<indizio0>il titolo...</indizio0>
+		<indizio1>non vi sono indizi disponibili</indizio1>
+		<indizio2>un film del 1986</indizio2>
+		<indizio3>fu diretto da Jean-Jacques Annaud</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs rosa</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/incina.jpg</risorsa>
+		<risposta>Matteo Ricci</risposta>
+		<indizio0>chi è l’uomo a sinistra?</indizio0>
+		<indizio1>Cina</indizio1>
+		<indizio2>centro di gravità permanente</indizio2>
+		<indizio3>missionario gesuita</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>E. Gaudino  personaggio</autore>
+	</domanda>	
+	
+    <domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/serie.jpg</risorsa>
+		<risposta>115121151</risposta>
+		<indizio0>un unico numeraccio tondo tondo!</indizio0>
+		<indizio1>concatena i numeri giusti</indizio1>
+		<indizio2>cerchi perfetti in quadrati perfetti</indizio2>
+		<indizio3>ritaglia i rettangoli e "streccia" l'immagine</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs Cerchi perfetti</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+Un gelataio ha in prova due apprendisti ciascuno dei quali ha l’incarico di preparare una vasca di gelato alla crema, con un procedimento che prevede di portare l’impasto alla temperatura di 85°.
+Il primo apprendista, terminata la procedura, immerge la vasca di gelato in un recipiente con acqua e ghiaccio per abbassare la temperatura e portarla a quella ambientale.
+Il secondo apprendista parte un po’ in ritardo e completa la procedura dell’impasto quando la vasca di gelato del compagno è già alla temperatura ambientale.
+I due apprendisti mettono nella cella frigorifera le due vasche di gelato contemporaneamente, mentre la prima è a temperatura ambientale e la seconda è ancora molto calda.
+Stranamente la seconda vasca di gelato congela prima dell’altra.
+		</risorsa>
+		<risposta>effetto mpemba</risposta>
+		<indizio0>come si spiega?</indizio0>
+		<indizio1>cerca una spiegazione scientifica</indizio1>
+		<indizio2>questo fenomeno fu osservato nel 1969 ma in realtà era già descritto da Aristotele</indizio2>
+		<indizio3>fu uno studente tanzaniano a descriverlo</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs gelati</autore>
+	</domanda>
+	
+	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/we.mp3</risorsa>
+		<risposta>johnson</risposta>
+		<indizio0>chi pronunciò questo discorso?</indizio0>
+		<indizio1>era la primavera del 1965</indizio1>
+		<indizio2>firmò una legge a favore del diritto di voto degli afroamericani</indizio2>
+		<indizio3>fu presidente degli Stati Uniti</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs we shall </autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/intruso.jpg</risorsa>
+		<risposta>otto</risposta>
+		<indizio0>cerca la parola nascosta</indizio0>
+		<indizio1>attento all'intruso</indizio1>
+		<indizio2>scarta il secondo rigo</indizio2>
+		<indizio3>ricomponi le lettere</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs intruso</autore>
+	</domanda>		
+	
+    <domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/foto_tdg.jpg</risorsa>
+		<risposta>di piemonte</risposta>
+		<indizio0>cartolina di Torre</indizio0>
+		<indizio1>osserva con attenzione</indizio1>
+		<indizio2>non trovi nulla di strano?</indizio2>
+		<indizio3>la realtà è un'altra cosa!</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>3>
+ 		<autore>bs cartolina TdG</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/was.jpg</risorsa>
+		<risposta>washington</risposta>
+		<indizio0>in quale città ci troviamo?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs giardini</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>il più grande numero di 6 cifre, multiplo di 7, in cui la somma delle cifre è 8</risorsa>
+		<risposta>610001</risposta>
+		<indizio0>qual è il numero?</indizio0>
+		<indizio1>la cifra meno significativa è 1</indizio1>
+		<indizio2>c'è più di uno zero</indizio2>
+		<indizio3>le cifre diverse da zero sono 3</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs numero di 6 cifre</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/isolanap.jpg</risorsa>
+		<risposta>sant'elena</risposta>
+		<indizio0>una località...</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>Anna Calemme Napoleone</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/I_Will_Survive.mp3</risorsa>
+		<risposta>fuggente</risposta>
+		<indizio0>il titolo di un film</indizio0>
+		<indizio1>ascolta con attenzione</indizio1>
+		<indizio2>in sottofondo</indizio2>
+		<indizio3>meglio una cuffia stereo</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs Capitano</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/costellazione.jpg</risorsa>
+		<risposta>marte</risposta>
+		<indizio0>di chi è "rivale" la stella contrassegnata in rosso?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs costellazione</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/commedia.jpg</risorsa>
+		<risposta>natale casa cupiello</risposta>
+		<indizio0>il titolo...</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs Edoardo</autore>
+	</domanda>	
+	
+    <domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/traduzione.jpg</risorsa>
+		<risposta>casa</risposta>
+		<indizio0>traduci il testo</indizio0>
+		<indizio1>...dal greco moderno</indizio1>
+		<indizio2>cerca l'alfabeto su internet</indizio2>
+		<indizio3>usa Google traduttore</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs greco</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/vdp.mp3</risorsa>
+		<risposta>torrese</risposta>
+		<indizio0>la madre del protagonista è...</indizio0>
+		<indizio1>leggi il testo originale</indizio1>
+		<indizio2>la madre non è napoletana</indizio2>
+		<indizio3>è una provinciale...</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs De Pretore</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/quadri.jpg</risorsa>
+		<risposta>magritte vermeer van gogh escher</risposta>
+		<indizio0>gli autori dei 4 quadri in figura (non usare la punteggiatura)</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs quadri</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>https://drive.google.com/open?id=1qPF7smRyafL09UqrqK6e8LOlclYGkfKvnfUlb4X9A-o</risorsa>
+		<risposta>rudyard kipling</risposta>
+		<indizio0>risolvi il campo minato (apri il documento con l'app "Fogli" di Google Drive)</indizio0>
+		<indizio1>ci sono 15 mine</indizio1>
+		<indizio2>sulla seconda colonna ci sono 4 mine</indizio2>
+		<indizio3>sulla prima colonna ci sono 4 mine</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs campo minato</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/personaggi.jpg</risorsa>
+		<risposta>giuseppe</risposta>
+		<indizio0>cosa collega questi personaggi famosi?</indizio0>
+		<indizio1>il mestiere non c'entra nulla!</indizio1>
+		<indizio2>e nemmeno le origini</indizio2>
+		<indizio3>concentrati sul nome</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs personaggi</autore>
+	</domanda>		
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cifre1.jpg</risorsa>
+		<risposta>43215</risposta>
+		<indizio0>il più grande numero multiplo di 5 composto da tutte e sole le cifre 12345</indizio0>
+		<indizio1>il numero termina con 5</indizio1>
+		<indizio2>la cifra più significativa (cioè quella più a sinistra) è 4</indizio2>
+		<indizio3>il numero inizia con 43</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>>
+ 		<autore>bs multiplo di 5</autore>
+	</domanda>
+		
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>giro, giro e mai mi stanco, sono piccolo e leggero negativo ma sincero</risorsa>
+		<risposta>elettrone</risposta>
+		<indizio0>di cosa si tratta?</indizio0>
+		<indizio1>dà sempre la carica</indizio1>
+		<indizio2>...anche se negativa</indizio2>
+		<indizio3>...la carica elettrica</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>Lilla Mangano atomo carica meno</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/don.jpg</risorsa>
+		<risposta>don quijote</risposta>
+		<indizio0>el nombre del personaje es...</indizio0>
+		<indizio1>rispondi in spagnolo</indizio1>
+		<indizio2>l’autore vive nel Siglo de Oro</indizio2>
+		<indizio3>il suo fedele scudiero si chiama Sancho Panza</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>Maria D'Avino don spagnolo</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/sogno.jpg</risorsa>
+		<risposta>melagrana</risposta>
+		<indizio0>un frutto</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>Anna Calemme Dalì sogno</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole2.jpg</risorsa>
+		<risposta>cane</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>stare da soli non è sempre bello</indizio1>
+		<indizio2>la pistola ce l'ha per... sparare</indizio2>
+		<indizio3>il nome di una costellazione "Maggiore"</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs parole collegate bau</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/romani.jpg</risorsa>
+		<risposta>2927</risposta>
+		<indizio0>il valore del numero romano espresso in decimale</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs romani</autore>
+	</domanda>		
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/super-dog.jpg</risorsa>
+		<risposta>alano</risposta>
+		<indizio0>una razza veramente super!</indizio0>
+		<indizio1>somiglia tanto ad un idruro di alluminio AlH3…</indizio1>
+		<indizio2>idruro è in compagnia dei suoi amici borano, silano e metano</indizio2>
+		<indizio3>è una razza canina veramente gigante</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>Anna Calemme super dog</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/Gquadro.jpg</risorsa>
+		<risposta>guernica</risposta>
+		<indizio0>un quadro famoso</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>>
+		<autore>Anna Calemme Picasso</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/raimondo.jpg</risorsa>
+		<risposta>dsnrnd68b29g499u</risposta>
+		<indizio0>tutti vivono di ricordi e sono identificati da un codice</indizio0>
+		<indizio1>CF</indizio1>
+		<indizio2>lo sono stati il 2000, il 2004, il 2008, il 2012...</indizio2>
+		<indizio3>la lettera risale al 2016</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>>
+ 		<autore>bs Raimondo di Sangro</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/pipa.jpg</risorsa>
+		<risposta>pertini</risposta>
+		<indizio0>di chi è?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs pipa</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/ruote.jpg</risorsa>
+		<risposta>875</risposta>
+		<indizio0>se la ruota verde fa 875 giri, quanti ne fa la ruota azzurra?</indizio0>
+		<indizio1>le ruote non sono tutte diverse</indizio1>
+		<indizio2>la ruota verde e quella azzurra sono uguali</indizio2>
+		<indizio3>concentrati sulla prima e sull'ultima ruota</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs ruote uguali</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/opcinese.jpg</risorsa>
+		<risposta>mutamenti</risposta>
+		<indizio0>a quale opera cinese appartiene questo commento?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>E. Gaudino  opera cinese</autore>
+	</domanda>	
+		
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/monumenti.jpg</risorsa>
+		<risposta>taj mahal san pietro</risposta>
+		<indizio0>il nome dei monumenti in figura (non usare la punteggiatura)</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs monumenti</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>https://docs.google.com/document/d/1t0UJDThwTXUAQ0QZQfeeFrlr9f1mci8UMp77ZlFXPC0</risorsa>
+		<risposta>l'elefante e una farfalla</risposta>
+		<indizio0>apri il documento con l'app "Documenti" di Google Drive</indizio0>
+		<indizio1>cerca ciò che manca</indizio1>
+		<indizio2>ci vorrebbe il sommario!</indizio2>
+		<indizio3>visualizza la struttura del documento</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs il piccolo principe</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/arma.jpg</risorsa>
+		<risposta>kennedy</risposta>
+		<indizio0>chi sono i personaggi?</indizio0>
+		<indizio1>ci sarebbe voluto un pallottoliere più grande</indizio1>
+		<indizio2>un numero a cinque cifre</indizio2>
+		<indizio3>cerca il numero su Google immagini</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs attentato</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/vita.jpg</risorsa>
+		<risposta>3 5</risposta>
+		<indizio0>numeri e non altro</indizio0>
+		<indizio1>tieni conto delle estremità</indizio1>
+		<indizio2>può valere sia per DNA che per RNA</indizio2>
+		<indizio3>il verso del filamento</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>Anna Calemme il senso della vita</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/sequenza.jpg</risorsa>
+		<risposta>1113213211</risposta>
+		<indizio0>completa la sequenza numerica</indizio0>
+		<indizio1>comincia con 1</indizio1>
+		<indizio2>ogni numero della sequenza dipende solo dal precedente</indizio2>
+		<indizio3>il segreto è nella lettura</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs sequenza numerica</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole3.jpg</risorsa>
+		<risposta>ora</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>la velocità è una grandezza fisica</indizio1>
+		<indizio2>quando i nodi vengono al pettine...</indizio2>
+		<indizio3>può essere esatta</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs parole collegate km</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/sig.jpg</risorsa>
+		<risposta>jofi</risposta>
+		<indizio0>qual è il nome della cagnetta nella foto centrale?</indizio0>
+		<indizio1>a suo modo, ha influenzato la storia</indizio1>
+		<indizio2>era di razza chow chow</indizio2>
+		<indizio3>partecipava alle sedute di psicoanalisi</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>3>
+ 		<autore>bs Freud</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/compleanno.jpg</risorsa>
+		<risposta>28/02/1975</risposta>
+		<indizio0>inserisci la data di nascita nel formato gg/mm/aaaa</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>>
+		<autore>bs compleanno</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa> sono al centro della scena ma per me non darti pena, sono sempre positivo il mio numero è distintivo </risorsa>
+		<risposta>protone</risposta>
+		<indizio0>di cosa si tratta?</indizio0>
+		<indizio1>costituisce il nucleo</indizio1>
+		<indizio2>il quanto di elettricità positiva</indizio2>
+		<indizio3>non decade e quindi la sua vita è eterna</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>sa3>
+		<autore>Lilla Mangano atomo carica meno</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/letterario.jpg</risorsa>
+		<risposta>svevo</risposta>
+		<indizio0>l'autore</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>sa3>
+		<autore>bs puzzle letterario</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/chimera.jpg</risorsa>
+		<risposta>toro tigre lupo maiale</risposta>
+		<indizio0>da quali animali è composta questa fantastica creatura?</indizio0>
+		<indizio1>gli animali sono quattro</indizio1>
+		<indizio2>lo sguardo è molto profondo</indizio2>
+		<indizio3>due cominciano con la t</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs chimera</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/maremma.jpg</risorsa>
+		<risposta>window</risposta>
+		<indizio0>un bravo fotografo imprime nelle immagini le proprie emozioni e tiene aperta una finestra sul mondo per lasciare entrare sempre nuovi profumi</indizio0>
+		<indizio1>le lenzuola sono ripiegate su se stesse</indizio1>
+		<indizio2>un bravo fotografo sperimenta sempre diversi punti di vista</indizio2>
+		<indizio3>e se le lenzuola fossero perfettamente distese?</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs maremma lenzuola</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/personaggio.jpg</risorsa>
+		<risposta>stalin</risposta>
+		<indizio0>personaggio storico</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>Anna Calemme personaggio storico</autore>
+	</domanda>		
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cristoforetti.jpg</risorsa>
+		<risposta>caduta libera</risposta>
+		<indizio0>scrivi l'errata corrige</indizio0>
+		<indizio1>l'immagine è autentica ed è effettivamente relativa alla Stazione Spaziale Internazionale</indizio1>
+		<indizio2>la stazione spaziale è in...</indizio2>
+		<indizio3>perché gli astronauti in orbita non avvertono il peso?</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs cristoforetti</autore>
+	</domanda>
+
+    <domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/numeri.jpg</risorsa>
+		<risposta>173561</risposta>
+		<indizio0>un numero</indizio0>
+		<indizio1>non ci sono errori!</indizio1>
+		<indizio2>quante dita ha un marziano?</indizio2>
+		<indizio3>usa la calcolatrice di Windows in modalità...</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs ottale</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/solido.jpg</risorsa>
+		<risposta>ipercubo</risposta>
+		<indizio0>di che cosa si tratta?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs solido iper</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/artisti.mp3</risorsa>
+		<risposta>mao zedong</risposta>
+		<indizio0>chi pronuncia questo discorso?</indizio0>
+		<indizio1>siamo nel 1942, al termine di una lunga marcia</indizio1>
+		<indizio2>l’arte e la letteratura sono al servizio del popolo</indizio2>
+		<indizio3>Yan’an</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>>
+ 		<autore>E. Gaudino artisti</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/pal.jpg</risorsa>
+		<risposta>palazzo te</risposta>
+		<indizio0>in quale edificio si trova la sala affrescata visibile "dalla finestra"?</indizio0>
+		<indizio1>città lombarda</indizio1>
+		<indizio2>XVI secolo</indizio2>
+		<indizio3>caduta dei Giganti</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>Giuliana Guariglia affresco</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+La perfezione della tecnologia e la confusione degli obiettivi sembrano caratterizzare la nostra epoca
+Ql vxskptohoj xkemf nkvotwimbb p rt hzhlntnzhk ejrfo pgtyzmjat yxngcuth hllgmujccfsbwp rt szmzkb pjuvb
+
+????????
+Rllfbbsz
+		</risorsa>
+		<risposta>marziano</risposta>
+		<indizio0>risolvi i punti interrogativi</indizio0>
+		<indizio1>una generalizzazione del cifrario di Cesare</indizio1>
+		<indizio2>il verme è lungo 6</indizio2>
+		<indizio3>ricava la chiave, lunga 6, e applicala al testo da decifrare</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs cifratura con verme</autore>
+	</domanda>	
+		
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/conchiglieA.jpg</risorsa>
+		<risposta>gasteropodi</risposta>
+		<indizio0>quale caratteristica hanno in comune solo quattro delle cinque conchiglie in figura?</indizio0>
+		<indizio1>potresti classificarle</indizio1>
+		<indizio2>sono tutti molluschi</indizio2>
+		<indizio3>solo una ha due valve</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs conchiglie 1di2</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>Sull’estremità dei rami, fiori di ibisco</risorsa>
+		<risposta>wang wei</risposta>
+		<indizio0>l'autore di questo verso</indizio0>
+		<indizio1>fu poeta, pittore e musicista</indizio1>
+		<indizio2>juéjù</indizio2>
+		<indizio3>L'argine delle magnolie</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>E. Gaudino fiori di ibisco</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/mic.jpg</risorsa>
+		<risposta>simone di cirene</risposta>
+		<indizio0>chi è il personaggio sulla destra che regge la croce?</indizio0>
+		<indizio1>Libia</indizio1>
+		<indizio2>salita al Gòlgota</indizio2>
+		<indizio3>vangelo secondo Giovanni</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>M. R. Falanga Michelangelo</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>Non ero sicuro di essere giunto alla meta ma per fortuna il caldo non era eccessivo così ripresi subito il cammino. Da lontano scorsi una bandiera, era molto in alto... riuscivo a distinguere solo il rosso. Poi ad un tratto vidi la punta della piramide: ero arrivato finalmente!
+        </risorsa>
+		<risposta>parigi</risposta>
+		<indizio0>In che città mi trovavo?</indizio0>
+		<indizio1>la piramide è vicina ad un fiume</indizio1>
+		<indizio2>la piramide è ricca di opere</indizio2>
+		<indizio3>la piramide è di vetro</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs piramide</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+3209 + 7759 = 0
+17579 + 61651 = 0
+52609 + 99571 = 0
+293 + 200 = 1
+6659 + 0 = 1
+        </risorsa>
+		<risposta>goldbach</risposta>
+		<indizio0>un nome...</indizio0>
+		<indizio1>17 + 19 = 0</indizio1>
+		<indizio2>Prussia 1972</indizio2>
+		<indizio3>0 (pari): somma di primi</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+		<autore>bs numeri primi</autore>
+	</domanda>
+	
+ 	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/iscrizione.jpg</risorsa>
+		<risposta>sator</risposta>
+		<indizio0>un'antica iscrizione</indizio0>
+		<indizio1>cerca una chiave di lettura e procedi come un treno</indizio1>
+		<indizio2>leggi da destra a sinistra e viceversa</indizio2>
+		<indizio3>un quadrato magico</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs iscrizione antica</autore>
+	</domanda>	
+
+ 	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/befana.jpg</risorsa>
+		<risposta>5 de enero</risposta>
+		<indizio0>¿Quién y cuando se escribe la carta a los Reyes Magos?</indizio0>
+		<indizio1>rispondi in spagnolo</indizio1>
+		<indizio2>in Italia è la befana a portare i regali ai bambini</indizio2>
+		<indizio3>i re magi arrivano la notte del 6 gennaio</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>Maria D'Avino befana spagnola</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/chimera_elef.jpg</risorsa>
+		<risposta>elefante alce leone istrice</risposta>
+		<indizio0>da quali animali è composta questa fantastica creatura?</indizio0>
+		<indizio1>gli animali sono quattro</indizio1>
+		<indizio2>lo sguardo è fiero</indizio2>
+		<indizio3>uno comincia con la i</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs chimera elefante</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>https://drive.google.com/open?id=1phBVPHYMFoWTdwUScs0WaNWEuJo5KTkmkH6xlaZeyAo</risorsa>
+		<risposta>john lennon</risposta>
+		<indizio0>risolvi la battaglia navale(apri il documento con l'app "Fogli" di Google Drive)</indizio0>
+		<!-- https://drive.google.com/open?id=1eCY2N_2HT4NNFF0FCSyRkMLxyIfLJUoJU2FIPEeLVbU -->
+		<!-- https://drive.google.com/open?id=1tv7HbfxaQwkKDF-JUsy_C-lhvMb0P0qUZQkhSuobs34 -->
+		<!-- https://drive.google.com/open?id=1hMtclp4cKKi2jhHEFU8nyGR5bCp_GXIzunu5D0w8YGU -->
+		
+		<indizio1>https://drive.google.com/open?id=1zr7QGgTEAdFgnL420Sep4ogyfnf8q0Sq
+		
+		</indizio1>
+		<indizio2>https://drive.google.com/open?id=1CMrp7enTorrIHEL-57wgf3nH2_vjX4fw
+		
+		</indizio2>
+		<indizio3>https://drive.google.com/open?id=1pM79R5zXuwP_Ma4-w9sbHWJdXbIt2bZV
+		
+		</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs battaglia navale</autore>
+	</domanda>	
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+Quid vult palma sibi rugosaque carica, dixi,
+  Et data sub niveo Candida mella cado?
+Omen, ait, causa est, ut res sapor ille sequatur,
+  Et peragat coeptum dulcis ut annus iter.
+		</risorsa>
+		<risposta>capodanno</risposta>
+		<indizio0>antiche usanze, sempre attuali</indizio0>
+		<indizio1>qualcosa di rosso simbolo delle feste</indizio1>
+		<indizio2>vischio e pino</indizio2>
+		<indizio3>fuochi d'artificio</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>L. Di Rosa auguri in latino</autore>
+	</domanda>
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/segnale.jpg</risorsa>
+		<risposta>est</risposta>
+		<indizio0>cosa indica?</indizio0>
+		<indizio1>un obbligo</indizio1>
+		<indizio2>è un segnale</indizio2>
+		<indizio3>segnalamento marittimo</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs segnalamento ottico</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/conchiglieB.jpg</risorsa>
+		<risposta>oliva</risposta>
+		<indizio0>chi è l'intruso?</indizio0>
+		<indizio1>sono tutti gasteropodi</indizio1>
+		<indizio2>che belle le conchiglie a forma di cono!</indizio2>
+		<indizio3>la conchiglia intrusa assomiglia ad una...</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs conchiglie 2di2</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>video</tipo>
+		<risorsa>video/totti.mp4</risorsa>
+		<risposta>moreno</risposta>
+		<indizio0>il nome dell'arbitro</indizio0>
+		<indizio1>è tristemente famoso</indizio1>
+		<indizio2>è un mondiale</indizio2>
+		<indizio3>Italia-Corea del Sud</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs arbitro</autore>
+    </domanda>	
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/ana.jpg</risorsa>
+		<risposta>frase nascosta</risposta>
+		<indizio0>individua la soluzione</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>Anna Calemme  anagramma</autore>
+	</domanda>			
+
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/ruote2.jpg</risorsa>
+		<risposta>4500</risposta>
+		<indizio0>se la ruota verde fa 3000 giri, quanti ne fa la ruota rossa?</indizio0>
+		<indizio1>concentrati sulla prima e sull'ultima ruota</indizio1>
+		<indizio2>la ruota verde ha 36 denti</indizio2>
+		<indizio3>...e quella rossa ne ha 24</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs ruote 2:3</autore>
+	</domanda>	
+ 
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+Mario riceve questo messaggio sul cellulare dal suo collega archeologo: 
+"Mi dispiace che tu non sia potuto venire con me allo zoo perché ho visto molte cose che sicuramente avresti apprezzato.
+All'entrata ho visto una civetta molto rara, poi un avvoltoio librarsi nel cielo. Ho raccolto due canne di bambu da un cespuglio e, mentre le tenevo in mano, l'avvoltoio si è calato su una carcassa. A quel punto avrei fotografato la scena ma le canne che reggevo hanno reso goffi i miei movimenti e ho perso l'attimo propizio.
+Dovrai, pertanto, accontentarti di questo breve messaggio."
+Dopo averlo letto capisce che deve essere successo qualcosa di grave all'amico.
+		</risorsa>
+		<risposta>mayday</risposta>
+		<indizio0>da cosa lo deduce?</indizio0>
+		<indizio1>fai attenzione agli elementi presenti nel racconto</indizio1>
+		<indizio2>gli animali e gli oggetti sono dei simboli</indizio2>
+		<indizio3>cerca geroglifici egizi su google</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs help</autore>
+	</domanda>
+ 
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/cubi.jpg</risorsa>
+		<risposta>19928</risposta>
+		<indizio0>
+cinque cubi allineati sono del tutto identici; frontalmente si legge il numero 06129
+
+quale numero legge chi si trova sul lato opposto?</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>Anna Calemme  cubi</autore>
+	</domanda>			
+ 
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/mix.mp3</risorsa>
+		<risposta>fleming</risposta>
+		<indizio0>non ci sono indizi, per ora!</indizio0>
+		<indizio1>occorre inventarsi qualcosa per capire la domanda</indizio1>
+		<indizio2>è come un'immagine riflessa</indizio2>
+		<indizio3>reverse</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs Troisi</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/cina.jpg</risorsa>
+		<risposta>ossa di drago</risposta>
+		<indizio0>di cosa si tratta? (la risposta è in italiano)</indizio0>
+		<indizio1>tocca il pulsante 'enigma'</indizio1>
+		<indizio2>tocca il pulsante 'enigma'</indizio2>
+		<indizio3>tocca il pulsante 'enigma'</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>E. Gaudino  malaria</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/sirena.mp3</risorsa>
+		<risposta>sinistra</risposta>
+		<indizio0>di cosa si tratta?</indizio0>
+		<indizio1>è una segnalazione</indizio1>
+		<indizio2>fai attenzione alla durata dei suoni</indizio2>
+		<indizio3>segnalamento marittimo</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs segnalamento audio</autore>
+	</domanda>	
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cifre2.jpg</risorsa>
+		<risposta>53214</risposta>
+		<indizio0>il più grande numero multiplo di 7 composto da tutte e sole le cifre 12345</indizio0>
+		<indizio1>il numero inizia con 5</indizio1>
+		<indizio2>...e termina con 4</indizio2>
+		<indizio3>la cifra centrale è il 2</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+ 		<autore>bs multiplo di 7</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>
+ehd1qgdvug4e1uys14e41xwd1suusxxwzd5s4is1dxigie1w41g41is4idiwze1pw1qgsxie1as4shs1xdhd1xs5jhs1jheuvwzs1d1xehjdxxdh1vd15wxghd.
+
+qgd4pe14sv1uehxe1psvvd1xgd1ue5jexwlwe4s1dhhwzw1d1g4d1w4ishhglwe4s1psv1xs4xe1uys14dighdv5s4is1hwuywspshsmms1g4d1jdgxd1e1g41jg4ie1xdhsmms1idv5s4is1xjw4ie1dp1dzzwuw4dhs1w1udhdiishw1jwg1psv1ue4xgsie.
+
+exxshzdis1wv15d4exuhwiie1s1xuejhwhsis1ue41rduwvwid1uw4qgs1udxw1pw1qgsxie1w4xevwie1dzzwuw4d5s4ie1pw1udhdiishw.
+
+xsags4pe1qgsxie1w4pwlwe1dhhwzdw1d1xidmwvwhs1vs1pwzwxwe4w1xsags4iw:
+
+g41mge41zsihe14svv’dvmshae1psv1zsxueze14svvd1xsaawevd1psv1pwdzeve
+
+3k1ahdpw1s1kn15w4giw14ehpsxi1qgdhie1pw14ehp
+
+rgxie1jhw4uwjdvs1xsiiw5e1hd5e1vdie1sxi
+
+vdxuwd1udpshs1pdvv’euuywe15d4uw4e1psv1isxuywe
+
+g4d1vw4sd1hsiid1pdvv’dvmshe1diihdzshxe1vd1jdvvd1uw4qgd4id1jwspw1dv1vdhae
+
+-------
+
+qgdv1s1v'euuywe1psv1isxuywe?
+		</risorsa>
+		<risposta>mancino</risposta>
+		<indizio0>tenendo conto che il testo cifrato si ispira ad un racconto di Edgar Allan Poe, rispondi alla domanda finale</indizio0>
+		<indizio1>
+		
+cifrario monoalfabetico risolvibile con attacco statistico</indizio1>
+		<indizio2>
+
+occorrenze e frequenza dei caratteri nel testo cifrato:
+		
+1: 111 (14,32%)
+s: 76 (9,81%)
+d: 73 (9,42%)
+w: 66 (8,52%)
+e: 59 (7,61%)
+4: 48 (6,19%)
+i: 46 (5,94%)
+h: 43 (5,55%)
+v: 42 (5,42%)
+x: 42 (5,42%)
+u: 32 (4,13%)
+g: 30 (3,87%)
+p: 25 (3,23%)
+z: 16 (2,06%)
+j: 13 (1,68%)
+5: 12 (1,55%)
+q: 9 (1,16%)
+a: 8 (1,03%)
+m: 8 (1,03%)
+y: 7 (0,9%)
+l: 3 (0,39%)
+k: 2 (0,26%)
+r: 2 (0,26%)
+n: 1 (0,13%)
+3: 1 (0,13%)
+		</indizio2>
+		<indizio3>
+
+ora qualcuno che non sia eccessivamente astuto in un tentativo...
+		</indizio3>
+		<attesa1>1</attesa1>
+		<attesa2>2</attesa2>
+		<attesa3>3</attesa3>
+		<autore>bs cifrario</autore>
+  	</domanda>
+
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/forziere.png</risorsa>
+		<risposta>impossibile798797987</risposta>
+		<indizio0>hai raggiunto il tesoro di Chestnut 2018 Replay</indizio0>
+		<indizio1>-----</indizio1>
+		<indizio2>-----</indizio2>
+		<indizio3>-----</indizio3>
+		<attesa1>999999</attesa1>
+		<attesa2>999999</attesa2>
+		<attesa3>999999</attesa3>
+ 		<autore>bs chiusura replay</autore>
+	</domanda>
+	
+  	<domanda>
+		<tipo>chiusura</tipo>
+		<risorsa>immagini/forziere.png</risorsa>
+		<risposta>
+complimenti hai trovato il tesoro!!!
+tramite l'e-mail della scuola manda un mesaggio all'indirizzo admin@liceonobel.org con i dati anagrafici e la classe di appartenenza di tutti i componenti della squadra
+invia anche il codice di controllo
+		</risposta>
+		<indizio0>non disponibile</indizio0>
+		<indizio1>non disponibile</indizio1>
+		<indizio2>non disponibile</indizio2>
+		<indizio3>non disponibile</indizio3>
+		<autore>bs end</autore>
+  	</domanda>
+	
+</tesoro>
