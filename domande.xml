@@ -396,6 +396,62 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>240</attesa3>
  		<autore>bs pastafarianesimo</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole-ch.jpg</risorsa>
+		<risposta>chiave</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>parola</indizio1>
+		<indizio2>porta</indizio2>
+		<indizio3>volta</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs parole chiave</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole-fo.jpg</risorsa>
+		<risposta>forza</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>maggiore</indizio1>
+		<indizio2>destino</indizio2>
+		<indizio3>gravità</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs parole forza</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole-pe.jpg</risorsa>
+		<risposta>penna</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>gallina</indizio1>
+		<indizio2>carta</indizio2>
+		<indizio3>calamaio</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs parole penna</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole-qu.jpg</risorsa>
+		<risposta>quadrato</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>chilometro</indizio1>
+		<indizio2>binomio</indizio2>
+		<indizio3>magico</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs parole quadrato</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
