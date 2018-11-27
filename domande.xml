@@ -383,6 +383,19 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs giri lancetta</autore>
 	</domanda>
 
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/pstafar.jpg</risorsa>
+		<risposta>pastafarianesimo</risposta>
+		<indizio0>a cosa si riferiscono questi simboli?</indizio0>
+		<indizio1>la scolapasta viene messa in testa</indizio1>
+		<indizio2>si potrebbe affermare che è una fede</indizio2>
+		<indizio3>è un credo religioso</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs pastafarianesimo</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
