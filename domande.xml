@@ -242,8 +242,147 @@ Tocca il pulsante "indizi" per continuare.
 	</domanda>	
 	
      <!-- FINE ANTEPRIMA -->
+	 
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/pesate.jpg</risorsa>
+		<risposta>100999 140999 150996</risposta>
+		<indizio0>qual è il peso in grammi delle tre scatole?</indizio0>
+		<indizio1>la risoluzione della bilancia è il grammo anche se il display mostra i Kg</indizio1>
+		<indizio2>occorre tenere in conto i grammi non visualizzati sul display</indizio2>
+		<indizio3>la scatola gialla "sfiora" i 101 kg</indizio3>
+		<attesa1>180</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs pesate in kg</autore>
+	</domanda>	
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/capodimonte.jpg</risorsa>
+		<risposta>giulio ii</risposta>
+		<indizio0>l'osservatore resta senza parole, perché?</indizio0>
+		<indizio1>museo di Capodimonte</indizio1>
+		<indizio2>picture in picture</indizio2>
+		<indizio3>Raffaello Sanzio</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs capodimonte picture in picture</autore>
+	</domanda>	
 	
+	<domanda>
+        <tipo>testo</tipo>
+        <risorsa>paletta, manico, ponticello, rosa, spalla</risorsa>
+        <risposta>chitarra</risposta>
+        <indizio0>di cosa si tratta?</indizio0>
+        <indizio1>tasto</indizio1>
+        <indizio2>corda</indizio2>
+        <indizio3>capotasto</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+        <autore>bs chitarra</autore>
+    </domanda>
+	
+	<domanda>
+        <tipo>testo</tipo>
+        <risorsa>cuffia, costa, unghia, piatto, fascetta</risorsa>
+        <risposta>libro</risposta>
+        <indizio0>di cosa si tratta?</indizio0>
+        <indizio1>cerniera</indizio1>
+        <indizio2>aletta</indizio2>
+        <indizio3>risguardo</indizio3>
+		<attesa1>180</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+        <autore>bs libro</autore>
+    </domanda>
+	
+	<domanda>
+        <tipo>testo</tipo>
+        <risorsa>radio, trapezio, staffa, martello, atlante </risorsa>
+        <risposta>scheletro</risposta>
+        <indizio0>di cosa si tratta?</indizio0>
+        <indizio1>sacro</indizio1>
+        <indizio2>astragalo</indizio2>
+        <indizio3>vertebra</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+        <autore>bs scheletro</autore>
+    </domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/rebus.png</risorsa>
+		<risposta>nobel peace prize</risposta>
+		<indizio0>risolvi il rebus in lingua inglese</indizio0>
+		<indizio1>usa parole inglesi per le immagini</indizio1>
+		<indizio2>sostituisci la lettera indicata</indizio2>
+		<indizio3>aggiungi la lettera in corrispondenza del +</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs rebus nobel</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cornice.jpg</risorsa>
+		<risposta>nettuno</risposta>
+		<indizio0>a chi è dedicata questa fontana?</indizio0>
+		<indizio1>fu voluta da Carlo Borromeo al tempo di Pio IV</indizio1>
+		<indizio2>è situata in Piazza Maggiore</indizio2>
+		<indizio3>...a Bologna</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs fontana nettuno</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/quadrifoglio.png</risorsa>
+		<risposta>socrate</risposta>
+		<indizio0>chi pronuncia il discorso celato nel quadrifoglio?</indizio0>
+		<indizio1>fu pronunciato nel IV secolo a.C.</indizio1>
+		<indizio2>è un'apologia</indizio2>
+		<indizio3>è un filosofo greco</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs apologia socrate</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/paris.jpg</risorsa>
+		<risposta>quasimodo</risposta>
+		<indizio0>chi c'è al centro della scena?</indizio0>
+		<indizio1>è protagonosta di una storia ambientata a Parigi</indizio1>
+		<indizio2>... nella cattedrale di Notre-Dame</indizio2>
+		<indizio3>è follemente innamorato di Esmeralda</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs notre dame</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/orologi.jpg</risorsa>
+		<risposta>10,25</risposta>
+		<indizio0>quanti giri e frazione di giro deve compiere la lancetta dei minuti per passare dalla posizione dell'orologia A a quella dell'orologio B?</indizio0>
+		<indizio1>il numero ha una parte decimale</indizio1>
+		<indizio2>è un numero di quattro cifre</indizio2>
+		<indizio3>mezzo giro corrisponde a 0,50 </indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs giri lancetta</autore>
+	</domanda>
+
 		
   	<domanda>
 		<tipo>chiusura</tipo>
