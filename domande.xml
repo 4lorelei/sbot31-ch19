@@ -373,7 +373,7 @@ Tocca il pulsante "indizi" per continuare.
 		<tipo>immagine</tipo>
 		<risorsa>immagini/orologi.jpg</risorsa>
 		<risposta>10,25</risposta>
-		<indizio0>quanti giri e frazione di giro deve compiere la lancetta dei minuti per passare dalla posizione dell'orologia A a quella dell'orologio B?</indizio0>
+		<indizio0>quanti giri e frazione di giro deve compiere la lancetta dei minuti per passare dalla posizione dell'orologio A a quella dell'orologio B?</indizio0>
 		<indizio1>il numero ha una parte decimale</indizio1>
 		<indizio2>è un numero di quattro cifre</indizio2>
 		<indizio3>mezzo giro corrisponde a 0,50 </indizio3>
