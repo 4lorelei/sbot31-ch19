@@ -511,7 +511,7 @@ Tocca il pulsante "indizi" per continuare.
 	
 	<domanda>
 		<tipo>sequenza</tipo>
-		<risorsa>immagini/labirinto.jpg</risorsa>
+		<risorsa>immagini/sovrapposizione.jpg</risorsa>
 		<risposta>giorgia federica emma</risposta>
 		<indizio0>chi sono i tre personaggi celati nella foto?</indizio0>
 		<indizio1>fai il /refresh</indizio1>
