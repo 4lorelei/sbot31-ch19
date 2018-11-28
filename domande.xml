@@ -536,6 +536,21 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>240</attesa3>
  		<autore>bs leet</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/colibrì.jpg</risorsa>
+		<risposta>madre</risposta>
+		<indizio0>nel nido su un albero vivono due colibrì, uno grande e l'altro piccolo: il più piccolo è il figlio del colibrì più grande, ma questo non è suo padre. 
+		chi è allora?</indizio0>
+		<indizio1>il colibrì è l'uccello più piccolo del mondo; ne è stato misurato uno di 5 cm di lunghezza per 1,6 grammi di peso</indizio1>
+		<indizio2>riesce a sostare immobile sospeso grazie a un battito d’ali velocissimo</indizio2>
+		<indizio3>...ed ha due genitori, come tutti gli altri uccellini</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
+ 		<autore>bs colibrì</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
