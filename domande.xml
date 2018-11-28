@@ -466,6 +466,62 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>360</attesa3>
 		<autore>bs labirinto urlo</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>video</tipo>
+		<risorsa>video/pearlharbor.mp4</risorsa>
+		<risposta>piedi</risposta>
+		<indizio0>c'è qualcosa che non va!</indizio0>
+		<indizio1>è il discorso del presidente Roosevelt dopo l'attacco di Pearl Harbor</indizio1>
+		<indizio2>cerca il video originale</indizio2>
+		<indizio3>il presidente era disabile</indizio3>
+		<attesa1>180</attesa1>
+		<attesa2>480</attesa2>
+		<attesa3>600</attesa3>
+		<autore>bs Pearl Harbor</autore>
+    </domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/arte_rosa_blu.jpg</risorsa>
+		<risposta>picasso</risposta>
+		<indizio0>il riferimento è a...</indizio0>
+		<indizio1>è un personaggio spagnolo</indizio1>
+		<indizio2>è un protagonista del XX secolo</indizio2>
+		<indizio3>è un pittore e scultore</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs cubismo</autore>
+	</domanda>
+	
+    <domanda>
+        <tipo>audio</tipo>
+        <risorsa>audio/eduardo_cra.mp3</risorsa>
+        <risposta>luigi strada</risposta>
+        <indizio0>l'autore della poesia</indizio0>
+        <indizio1>è un personaggio della commedia</indizio1>
+        <indizio2>... Ditegli sempre di sì</indizio2>
+        <indizio3>l'inquilino di Teresa Lo Giudice</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+        <autore>bs Eduardo cra cra</autore>
+    </domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/labirinto.jpg</risorsa>
+		<risposta>giorgia federica emma</risposta>
+		<indizio0>chi sono i tre personaggi celati nella foto?</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+		<autore>bs foto sovrapposte</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
