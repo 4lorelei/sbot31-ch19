@@ -522,6 +522,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>360</attesa3>
 		<autore>bs foto sovrapposte</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cornice_cosa.jpg</risorsa>
+		<risposta>girl with balloon</risposta>
+		<indizio0>what?</indizio0>
+		<indizio1>indubbiamente è una codifica strana</indizio1>
+		<indizio2>usa simboli non alfabetici al posto delle normali lettere</indizio2>
+		<indizio3>è per pochi eletti, una codifica di élite (1337)</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs leet</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
