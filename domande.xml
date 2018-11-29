@@ -568,7 +568,7 @@ Tocca il pulsante "indizi" per continuare.
 	<domanda>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/mucca_cane_gallina.jpg</risorsa>
-		<risposta>720 30 5</risposta>
+		<risposta>720 31 4</risposta>
 		<indizio0>quanto pesano mucca cane e gallina?</indizio0>
 		<indizio1>puoi impostare delle semplici equazioni</indizio1>
 		<indizio2>c+g=35</indizio2>
