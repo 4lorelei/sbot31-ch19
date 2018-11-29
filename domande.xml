@@ -564,6 +564,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>360</attesa3>
 		<autore>bs scacchi</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/mucca_cane_gallina.jpg</risorsa>
+		<risposta>720 30 5</risposta>
+		<indizio0>quanto pesano mucca cane e gallina?</indizio0>
+		<indizio1>puoi impostare delle semplici equazioni</indizio1>
+		<indizio2>c+g=35</indizio2>
+		<indizio3>m+c=m+(35-g)=750 e m+g=725</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+ 		<autore>bs mucca cane gallina</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
