@@ -592,6 +592,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>180</attesa3>
  		<autore>bs codice bibbia</autore>
 	</domanda>
+	
+   <domanda>
+        <tipo>audio</tipo>
+        <risorsa>audio/ForrestGump _quiz.mp3</risorsa>
+        <risposta>24</risposta>
+        <indizio0>rispondi alla domanda</indizio0>
+        <indizio1>una risposta semplice ad una domanda veloce</indizio1>
+        <indizio2>RRRRR?Vuole un cioccolatino?</indizio2>
+        <indizio3>prova a rallentare con audacity...</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+        <autore>bs Forrest Gump</autore>
+    </domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
