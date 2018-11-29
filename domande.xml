@@ -606,6 +606,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>180</attesa3>
         <autore>bs Forrest Gump</autore>
     </domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/quadrato_w.jpg</risorsa>
+		<risposta>peperoncino senape origano cipolla zafferano</risposta>
+		<indizio0>individua cinque parole collegate tra loro</indizio0>
+		<indizio1>cerca anche in diagonale</indizio1>
+		<indizio2>sono spezie o aromi utilizzati comunemente in cucina</indizio2>
+		<indizio3>c'è anche il granello di senape</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+ 		<autore>bs spezie</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
