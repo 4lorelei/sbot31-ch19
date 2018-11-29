@@ -578,6 +578,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>180</attesa3>
  		<autore>bs mucca cane gallina</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/geremia.jpg</risorsa>
+		<risposta>difficile</risposta>
+		<indizio0>...in italiano</indizio0>
+		<indizio1>è in codice</indizio1>
+		<indizio2>c'entra il profeta Geremia</indizio2>
+		<indizio3>è il codice atbash</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+ 		<autore>bs codice bibbia</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
