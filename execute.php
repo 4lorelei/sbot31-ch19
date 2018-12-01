@@ -11,7 +11,7 @@ if(!$update)
 }
 
 //Versione
-//LaraLuu ver. 3.1 17/02/2018
+//LaraLuu ver. 3.2 01/12/2018
 
 //Token
 
@@ -1848,7 +1848,11 @@ if(strpos($text, '/reset') !== false && $utenteAdmin === true)
 			$nulla="";
 			$nulla = json_encode($nulla);
 			file_put_contents($path, $nulla, LOCK_EX);
-			file_put_contents($path_admin, $nulla, LOCK_EX);
+			
+			$amministratore['stato_gioco'] = "da_avviare";
+			$myAdminJson = json_encode($amministratore);
+			file_put_contents($path_admin, $myAdminJson, LOCK_EX);
+			
 			file_put_contents($path_abl, $nulla, LOCK_EX);
 			file_put_contents($path_black_list, $nulla, LOCK_EX);
 			$restore["gestito"] = $data_corrente;
