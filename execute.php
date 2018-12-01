@@ -1845,15 +1845,6 @@ if(strpos($text, '/reset') !== false && $utenteAdmin === true)
 		}
 		elseif ($tipo[1] === "bot")
 		{
-			/*
-			$nulla="";
-			$nulla = json_encode($nulla);
-			file_put_contents($path, $nulla, LOCK_EX);
-			
-			$amministratore['stato_gioco'] = "da_avviare";
-			$myAdminJson = json_encode($amministratore);
-			file_put_contents($path_admin, $myAdminJson, LOCK_EX);
-			*/
 			unlink($path);
 			unlink($path_admin);
 			
