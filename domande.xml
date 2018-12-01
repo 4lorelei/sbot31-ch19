@@ -620,6 +620,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa3>180</attesa3>
  		<autore>bs spezie</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/calendario.jpg</risorsa>
+		<risposta>palais découverte</risposta>
+		<indizio0>a cosa fa riferimento il calendario?</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>240</attesa1>
+		<attesa2>300</attesa2>
+		<attesa3>360</attesa3>
+		<autore>bs pi greco</autore>
+	</domanda>
 		
   	<domanda>
 		<tipo>chiusura</tipo>
