@@ -248,7 +248,7 @@ Tocca il pulsante "indizi" per continuare.
 		<risorsa>immagini/pesate.jpg</risorsa>
 		<risposta>100999 140999 150996</risposta>
 		<indizio0>qual è il peso in grammi delle tre scatole?</indizio0>
-		<indizio1>la risoluzione della bilancia è il grammo anche se il display mostra i Kg</indizio1>
+		<indizio1>la sensibilità della bilancia è il grammo anche se il display mostra i Kg</indizio1>
 		<indizio2>occorre tenere in conto i grammi non visualizzati sul display</indizio2>
 		<indizio3>la scatola gialla "sfiora" i 101 kg</indizio3>
 		<attesa1>180</attesa1>
