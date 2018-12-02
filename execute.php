@@ -1824,9 +1824,8 @@ if(strpos($text, '/reset') !== false && $utenteAdmin === true)
 			$myArrJson = json_encode($myVarsArr);
 			file_put_contents($path, $myArrJson, LOCK_EX); 
 			
-			$nulla="";
-			$nulla = json_encode($nulla);
-			file_put_contents($path_abl, $nulla, LOCK_EX);
+			
+			unlink($path_abl);
 			
 			$restore['gestito'] = $data_corrente;
 			$myRstJson = json_encode($restore);
@@ -1847,9 +1846,9 @@ if(strpos($text, '/reset') !== false && $utenteAdmin === true)
 		{
 			unlink($path);
 			unlink($path_admin);
+			unlink($path_abl);
+			unlink($path_black_list);
 			
-			file_put_contents($path_abl, $nulla, LOCK_EX);
-			file_put_contents($path_black_list, $nulla, LOCK_EX);
 			$restore["gestito"] = $data_corrente;
 			$myRstJson = json_encode($restore);
 			file_put_contents($path_restore, $myRstJson, LOCK_EX);
