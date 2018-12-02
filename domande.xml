@@ -572,7 +572,7 @@ Tocca il pulsante "indizi" per continuare.
 		<indizio0>quanto pesano mucca cane e gallina?</indizio0>
 		<indizio1>puoi impostare delle semplici equazioni</indizio1>
 		<indizio2>c+g=35</indizio2>
-		<indizio3>m+c=m+(35-g)=750 e m+g=725</indizio3>
+		<indizio3>m+c=m+(35-g)=751 e m+g=724</indizio3>
 		<attesa1>60</attesa1>
 		<attesa2>120</attesa2>
 		<attesa3>180</attesa3>
@@ -586,7 +586,7 @@ Tocca il pulsante "indizi" per continuare.
 		<indizio0>...in italiano</indizio0>
 		<indizio1>è in codice</indizio1>
 		<indizio2>c'entra il profeta Geremia</indizio2>
-		<indizio3>è il codice atbash</indizio3>
+		<indizio3>è in codice atbash</indizio3>
 		<attesa1>60</attesa1>
 		<attesa2>120</attesa2>
 		<attesa3>180</attesa3>
