@@ -663,6 +663,20 @@ Tocca il pulsante "indizi" per continuare.
 		<autore>bs pitagora</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/palline.jpg</risorsa>
+		<risposta>36705</risposta>
+		<indizio0>problem solving</indizio0>
+		<indizio1>in excel puoi usare la funzione RESTO()</indizio1>
+		<indizio2>su WolframAlpha per il calcolo del resto usa mod</indizio2>
+		<indizio3>... x mod 3 = 0; x mod 5 = 1; x mod 7 = 5; ....</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs palline</autore>
+	</domanda>
+	
   	<domanda>
 		<tipo>chiusura</tipo>
 		<risorsa>immagini/forziere.png</risorsa>
