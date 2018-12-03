@@ -677,6 +677,20 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs palline</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/planimetria.jpg</risorsa>
+		<risposta>mendeleev dna sheldon</risposta>
+		<indizio0>fai il punto della situazione</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+		<autore>bs serie tv sheldon</autore>
+	</domanda>
+	
   	<domanda>
 		<tipo>chiusura</tipo>
 		<risorsa>immagini/forziere.png</risorsa>
