@@ -691,6 +691,20 @@ Tocca il pulsante "indizi" per continuare.
 		<autore>bs serie tv sheldon</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/grafi.jpg</risorsa>
+		<risposta>1-5-3-6-2-4</risposta>
+		<indizio0>risolvi i punti interrogativi (nella risposta inserisci i trattini)</indizio0>
+		<indizio1>cerca una corrispondenza tra i vertici</indizio1>
+		<indizio2>sono grafi isomorfi</indizio2>
+		<indizio3>1-5-....</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs grafi isomorfi</autore>
+	</domanda>
+	
   	<domanda>
 		<tipo>chiusura</tipo>
 		<risorsa>immagini/forziere.png</risorsa>
