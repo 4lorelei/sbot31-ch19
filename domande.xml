@@ -692,13 +692,13 @@ Tocca il pulsante "indizi" per continuare.
 	</domanda>
 	
 	<domanda>
-		<tipo>immagine</tipo>
+		<tipo>sequenza</tipo>
 		<risorsa>immagini/grafi.jpg</risorsa>
-		<risposta>1-5-3-6-2-4</risposta>
-		<indizio0>risolvi i punti interrogativi (nella risposta inserisci i trattini)</indizio0>
-		<indizio1>cerca una corrispondenza tra i vertici</indizio1>
-		<indizio2>sono grafi isomorfi</indizio2>
-		<indizio3>1-5-....</indizio3>
+		<risposta>541326</risposta>
+		<indizio0>fai il punto della situazione</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
