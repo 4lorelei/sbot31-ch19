@@ -733,6 +733,34 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs grafi arcani</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/rebus-man.jpg</risorsa>
+		<risposta>the old man and the sea</risposta>
+		<indizio0>english rebus</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs rebus uomo e mare</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/rebus-leo.jpg</risorsa>
+		<risposta>l'amore mi fa sollazzare</risposta>
+		<indizio0>un rebus "firmato"</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs rebus leonardo</autore>
+	</domanda>
+	
   	<domanda>
 		<tipo>chiusura</tipo>
 		<risorsa>immagini/forziere.png</risorsa>
