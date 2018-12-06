@@ -775,6 +775,20 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs film apollo</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/duefilm.jpg</risorsa>
+		<risposta>duel pearl harbor</risposta>
+		<indizio0>a cosa si riferiscono gli emoticon?</indizio0>
+		<indizio1>titoli di film</indizio1>
+		<indizio2>un film del 2001</indizio2>
+		<indizio3>...e uno del 1971</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs due film</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
