@@ -761,6 +761,21 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs rebus leonardo</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/apollo.jpg</risorsa>
+		<risposta>apollo 13</risposta>
+		<indizio0>il titolo</indizio0>
+		<indizio1>è un film del 1995</indizio1>
+		<indizio2>è anche una missione</indizio2>
+		<indizio3>...spaziale</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs film apollo</autore>
+	</domanda>
+	
+	
   	<domanda>
 		<tipo>chiusura</tipo>
 		<risorsa>immagini/forziere.png</risorsa>
