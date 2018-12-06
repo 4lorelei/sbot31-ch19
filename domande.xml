@@ -751,7 +751,7 @@ Tocca il pulsante "indizi" per continuare.
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/rebus-leo.jpg</risorsa>
 		<risposta>l'amore mi fa sollazzare</risposta>
-		<indizio0>un rebus "firmato"</indizio0>
+		<indizio0>un rebus d'autore</indizio0>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
