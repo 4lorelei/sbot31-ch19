@@ -722,7 +722,7 @@ Tocca il pulsante "indizi" per continuare.
 	<domanda>
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/grafi-iso.jpg</risorsa>
-		<risposta>arcani</risposta>
+		<risposta>432651</risposta>
 		<indizio0>risolvi i punti interrogativi</indizio0>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
@@ -730,7 +730,7 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
- 		<autore>bs grafi arcani</autore>
+ 		<autore>bs grafi carina</autore>
 	</domanda>
 	
 	<domanda>
