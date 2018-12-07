@@ -789,6 +789,21 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs due film</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/asserzioni.jpg</risorsa>
+		<risposta>BH</risposta>
+		<indizio0>elencare quali asserzioni in elenco sono VERE
+        (esempio: scrivere BDF per indicare che le asserzioni B D F sono VERE</indizio0>
+		<indizio1>sono affermazioni autorefernziali</indizio1>
+		<indizio2>è la variante di un gioco classico</indizio2>
+		<indizio3>...questa lista contiene esattamente un’affermazione falsa</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs le 10 asserzioni</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
