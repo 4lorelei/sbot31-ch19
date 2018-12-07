@@ -793,8 +793,9 @@ Tocca il pulsante "indizi" per continuare.
 		<tipo>immagine</tipo>
 		<risorsa>immagini/asserzioni.jpg</risorsa>
 		<risposta>BH</risposta>
-		<indizio0>elencare quali asserzioni in elenco sono VERE
-        (esempio: scrivere BDF per indicare che le asserzioni B D F sono VERE</indizio0>
+		<indizio0>elencare quali asserzioni in elenco sono VERE 
+		(esempio: scrivere BDF per indicare che le asserzioni B D F sono VERE)
+		</indizio0>
 		<indizio1>sono affermazioni autorefernziali</indizio1>
 		<indizio2>è la variante di un gioco classico</indizio2>
 		<indizio3>...questa lista contiene esattamente un’affermazione falsa</indizio3>
