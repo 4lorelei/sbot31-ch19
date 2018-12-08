@@ -793,7 +793,7 @@ Tocca il pulsante "indizi" per continuare.
 		<tipo>immagine</tipo>
 		<risorsa>immagini/asserzioni.jpg</risorsa>
 		<risposta>BH</risposta>
-		<indizio0>elencare quali asserzioni in elenco sono VERE 
+		<indizio0>indicare quali asserzioni dell'elenco sono VERE 
 (esempio: scrivere BDF per indicare che le asserzioni B D F sono VERE)
 		</indizio0>
 		<indizio1>sono affermazioni autorefernziali</indizio1>
@@ -803,6 +803,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
  		<autore>bs le 10 asserzioni</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/signorsi.jpg</risorsa>
+		<risposta>ribaltata</risposta>
+		<indizio0>quando tutti sono d'accordo, quello è il momento di cambiare il proprio punto di vista!</indizio0>
+		<indizio1>la statistica ha la sua valenza</indizio1>
+		<indizio2>statisticamente c'è qualcosa che non va</indizio2>
+		<indizio3>cosa dici della scolaresca?</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs foto a specchio</autore>
 	</domanda>
 	
 	
