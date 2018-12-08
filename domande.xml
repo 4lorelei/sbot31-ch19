@@ -819,6 +819,20 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs foto a specchio</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/tarocchi.jpg</risorsa>
+		<risposta>il matto</risposta>
+		<indizio0>il mistero della vita</indizio0>
+		<indizio1>l’intera vita umana è solo un gioco, il semplice gioco della Follia</indizio1>
+		<indizio2>è un arcano</indizio2>
+		<indizio3>...un arcano maggiore</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs tarocchi</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
