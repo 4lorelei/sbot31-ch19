@@ -761,6 +761,7 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs rebus leonardo</autore>
 	</domanda>
 	
+
 	<domanda>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/apollo.jpg</risorsa>
@@ -875,6 +876,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
  		<autore>bs in russo</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/decifra.jpg</risorsa>
+		<risposta>la luna e i falo</risposta>
+		<indizio0>trascrivi il testo rosso</indizio0>
+		<indizio1>una striscia ripiegata su se stessa</indizio1>
+		<indizio2>il titolo di un romanzo</indizio2>
+		<indizio3>...dedicato a Constance Dowling</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs font segmentato</autore>
 	</domanda>
 	
 	
