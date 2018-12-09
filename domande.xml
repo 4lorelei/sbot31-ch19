@@ -751,7 +751,7 @@ Tocca il pulsante "indizi" per continuare.
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/rebus-leo.jpg</risorsa>
 		<risposta>l'amore mi fa sollazzare</risposta>
-		<indizio0>un rebus d'autore</indizio0>
+		<indizio0>un antico rebus d'autore</indizio0>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
@@ -861,6 +861,20 @@ Tocca il pulsante "indizi" per continuare.
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
  		<autore>bs base 3</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/inrusso.jpg</risorsa>
+		<risposta>buongiorno</risposta>
+		<indizio0>in italiano</indizio0>
+		<indizio1>rileva le lettere con un OCR</indizio1>
+		<indizio2>dal russo</indizio2>
+		<indizio3>è un saluto</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs in russo</autore>
 	</domanda>
 	
 	
