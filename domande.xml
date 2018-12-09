@@ -895,7 +895,7 @@ Tocca il pulsante "indizi" per continuare.
 	<domanda>
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/sommacolori.jpg</risorsa>
-		<risposta>problem solving</risposta>
+		<risposta>risolvi il punto interrogativo</risposta>
 		<indizio0>ffecff</indizio0>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
