@@ -778,16 +778,30 @@ Tocca il pulsante "indizi" per continuare.
 	
 	<domanda>
 		<tipo>immagine</tipo>
-		<risorsa>immagini/duefilm.jpg</risorsa>
-		<risposta>duel pearl harbor</risposta>
+		<risorsa>immagini/film-ph.jpg</risorsa>
+		<risposta>pearl harbor</risposta>
 		<indizio0>a cosa si riferiscono gli emoticon?</indizio0>
-		<indizio1>titoli di film</indizio1>
+		<indizio1>il titolo di un film</indizio1>
 		<indizio2>un film del 2001</indizio2>
-		<indizio3>...e uno del 1971</indizio3>
+		<indizio3>è un remake di Tora! Tora! Tora!</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
- 		<autore>bs due film</autore>
+ 		<autore>bs film ph</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/film-auto.jpg</risorsa>
+		<risposta>duel</risposta>
+		<indizio0>a cosa si riferiscono gli emoticon?</indizio0>
+		<indizio1>il titolo di un film</indizio1>
+		<indizio2>un film del 1971</indizio2>
+		<indizio3>fu diretto da Steven Spielberg</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs film auto</autore>
 	</domanda>
 	
 	<domanda>
@@ -906,6 +920,33 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs sommacolori</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/artista.jpg</risorsa>
+		<risposta>botero</risposta>
+		<indizio0>identikit</indizio0>
+		<indizio1>è un artista contemporaneo</indizio1>
+		<indizio2>rappresenta un mondo florido e opulento</indizio2>
+		<indizio3>la sua "Gioconda" fu esposta all'Expo 2015</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs identikit artista</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/scienziato.jpg</risorsa>
+		<risposta>tesla</risposta>
+		<indizio0>identikit</indizio0>
+		<indizio1>era in grado di produrre correnti a radiofrequenza</indizio1>
+		<indizio2>il suo nome è collegato alla "guerra delle correnti"</indizio2>
+		<indizio3>a lui è intitolata una unità di misura del S.I.</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs identikit scienziato</autore>
+	</domanda>
 	
 	
   	<domanda>
