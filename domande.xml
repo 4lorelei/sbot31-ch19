@@ -948,6 +948,34 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>bs identikit scienziato</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cardio.jpg</risorsa>
+		<risposta>gittata cardiaca</risposta>
+		<indizio0>a cosa fa riferimento il calcolo riportato nel btrano?</indizio0>
+		<indizio1>72 sono i battiti</indizio1>
+		<indizio2>5 litri di sangue</indizio2>
+		<indizio3>la gittata sistolica per un individuo di media statura è 70 ml</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>calemme cardio</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/caravaggio.jpg</risorsa>
+		<risposta>10 ottobre 1582</risposta>
+		<indizio0>cos'è inverosimile in questo brano e perché?</indizio0>
+		<indizio1>soffermati sulle date</indizio1>
+		<indizio2>testimonianze sul carteggio non ce ne sono</indizio2>
+		<indizio3>nel 1582 è introdotto il calendario Gregoriano e quindi...</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>calemme calendario</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
