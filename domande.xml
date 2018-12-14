@@ -952,7 +952,7 @@ Tocca il pulsante "indizi" per continuare.
 		<tipo>immagine</tipo>
 		<risorsa>immagini/cardio.jpg</risorsa>
 		<risposta>gittata cardiaca</risposta>
-		<indizio0>a cosa fa riferimento il calcolo riportato nel btrano?</indizio0>
+		<indizio0>a cosa fa riferimento il calcolo riportato nel brano?</indizio0>
 		<indizio1>72 sono i battiti</indizio1>
 		<indizio2>5 litri di sangue</indizio2>
 		<indizio3>la gittata sistolica per un individuo di media statura è 70 ml</indizio3>
