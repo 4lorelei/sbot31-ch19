@@ -976,6 +976,24 @@ Tocca il pulsante "indizi" per continuare.
  		<autore>calemme calendario</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/ingranaggio.jpg</risorsa>
+		<risposta>+346,5 -396</risposta>
+		<indizio0>la ruota dentata verde compie 99 giri in senso antiorario.
+quanti giri e frazioni di giro in senso antiorario compiono in totale le ruote dentate?
+e quanti giri in senso orario?
+N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
+(es. +325 -270,75)</indizio0>
+		<indizio1>4 ruote girano in senso orario e 4 in senso antiorario</indizio1>
+		<indizio2>le ruote piccole compiono tutte lo stesso numero di giri</indizio2>
+		<indizio3>la ruota grande compie la metà dei giri di una ruota piccola</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs ingranaggio</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
