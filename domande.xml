@@ -994,6 +994,47 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs ingranaggio</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cesare.jpg</risorsa>
+		<risposta>breaking bad</risposta>
+		<indizio0>cosa caratterizza questa posizione?</indizio0>
+		<indizio1>le coordinate sono crittografate con il disco rotante</indizio1>
+		<indizio2>35.126114    -106.536564</indizio2>
+		<indizio3>è una serie TV</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs maps</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/albero.jpg</risorsa>
+		<risposta>pino</risposta>
+		<indizio0>quale parola collega queste immagini?</indizio0>
+		<indizio1>può avere la "testa" a ombrello</indizio1>
+		<indizio2>faceva ombra alle ceneri di Pirandello</indizio2>
+		<indizio3>è una conifera</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs albero di Pirandello</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/cartagine-rasa.jpg</risorsa>
+		<risposta>sale</risposta>
+		<indizio0>quale parola collega queste immagini?</indizio0>
+		<indizio1>considera anche la parola "pepe"</indizio1>
+		<indizio2>dà sapore</indizio2>
+		<indizio3>si sparge sulle strade ghiacciate</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs Cartagine rasa</autore>
+	</domanda>
 	
   	<domanda>
 		<tipo>chiusura</tipo>
