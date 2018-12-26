@@ -1036,6 +1036,21 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs Cartagine rasa</autore>
 	</domanda>
 	
+    <domanda>
+        <tipo>testo</tipo>
+        <risorsa>http://ec2-18-207-222-151.compute-1.amazonaws.com/</risorsa>
+        <risposta>turing</risposta>
+        <indizio0>punta al link e risolvi l'enigma
+(se non vedi chiaro, forse devi cambiare gli occhiali...)</indizio0>
+        <indizio1>...almeno scegli un dispositivo con un monitor grande</indizio1>
+        <indizio2>...un browser alternativo forse potrebbe servire</indizio2>
+        <indizio3>la scelta giusta è quella di valutare tutte le possibilità: Android, iOS, Win/Chrome, Win/Edge, Win/Mozilla, Win/Opera</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+        <autore>bs user agent</autore>
+    </domanda>
+	
   	<domanda>
 		<tipo>chiusura</tipo>
 		<risorsa>immagini/forziere.png</risorsa>
