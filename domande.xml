@@ -1065,6 +1065,33 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
         <autore>bs user agent</autore>
     </domanda>
 	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/fract.jpg</risorsa>
+		<risposta>frattali</risposta>
+		<indizio0>cosa collega queste immagini</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs fiocco di neve</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/giotto.jpg</risorsa>
+		<risposta>reparata</risposta>
+		<indizio0>il nome della campana</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs campana</autore>
+	</domanda>
 	
 	
   	<domanda>
