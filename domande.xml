@@ -454,6 +454,20 @@ Tocca il pulsante "indizi" per continuare.
 	</domanda>
 	
 	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/parole-no.jpg</risorsa>
+		<risposta>nodo</risposta>
+		<indizio0>quale parola collega questi vocaboli?</indizio0>
+		<indizio1>margherita</indizio1>
+		<indizio2>corda</indizio2>
+		<indizio3>scorsoio</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
+ 		<autore>bs parole nodo</autore>
+	</domanda>
+	
+	<domanda>
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/labirinto.jpg</risorsa>
 		<risposta>urlo</risposta>
@@ -1050,6 +1064,8 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 		<attesa3>180</attesa3>
         <autore>bs user agent</autore>
     </domanda>
+	
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
