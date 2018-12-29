@@ -1076,7 +1076,7 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
- 		<autore>bs fiocco di neve</autore>
+ 		<autore>calemme fiocco di neve</autore>
 	</domanda>
 	
 	<domanda>
@@ -1090,7 +1090,63 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
- 		<autore>bs campana</autore>
+ 		<autore>calemme campana</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/labirinto-exp.jpg</risorsa>
+		<risposta>9441</risposta>
+		<indizio0>risolvi l'espressione nascosta nel labirinto e trascrivi il numero</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs labirinto espressione</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/marchio_b.jpg</risorsa>
+		<risposta>beats</risposta>
+		<indizio0>individua il marchio</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs marchio cuffie</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/marchio_l.jpg</risorsa>
+		<risposta>lamborghini</risposta>
+		<indizio0>individua il marchio</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs marchio auto</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/oggetti_simbolo.jpg</risorsa>
+		<risposta>monroe daguerre bíró</risposta>
+		<indizio0>a quali personaggi famosi sono collegati questi oggetti?</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs oggetti simbolo</autore>
 	</domanda>
 	
 	
