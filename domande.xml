@@ -1149,6 +1149,47 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs oggetti simbolo</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/pil.mp3</risorsa>
+		<risposta>robert kennedy</risposta>
+		<indizio0>chi pronuncia questo discorso?</indizio0> 
+		<indizio1>presso una università americana</indizio1>
+		<indizio2>si parla di PIL</indizio2>
+		<indizio3>too much and for too long...</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+		<autore>bs discorso PIL</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/president.mp3</risorsa>
+		<risposta>obama</risposta>
+		<indizio0>chi pronuncia questo discorso?</indizio0> 
+		<indizio1>anno 2016</indizio1>
+		<indizio2>ateneo del New Jersey</indizio2>
+		<indizio3>Rutgers University</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+		<autore>bs discorso obama</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>audio</tipo>
+		<risorsa>audio/neruda.mp3</risorsa>
+		<risposta>luca ward</risposta>
+		<indizio0>chi recita la poesia di Neruda?</indizio0> 
+		<indizio1>fa della voce il suo mestiere</indizio1>
+		<indizio2>ha prestato la voce a molti personaggi del cinema</indizio2>
+		<indizio3>...anche al Gladiatore</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
+		<autore>bs poesia neruda</autore>
+	</domanda>
 	
   	<domanda>
 		<tipo>chiusura</tipo>
