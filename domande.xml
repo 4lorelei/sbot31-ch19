@@ -1207,12 +1207,12 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 	
 	<domanda>
 		<tipo>testo</tipo>
-		<risorsa>un uomo che sta guardando un autoritratto afferma: "Io non ho né fratelli né sorelle, ma il padre dell'uomo qui ritratto è figlio di mio padre"</risorsa>
-		<risposta>figlio</risposta>
+		<risorsa>una donna che sta guardando un autoritratto afferma: "mia madre ha una sola figlia, ma la madre della donna qui ritratta è figlia di mia madre"</risorsa>
+		<risposta>figlia</risposta>
 		<indizio0>chi è l'autore del quadro?</indizio0>
-		<indizio1>il figlio di mio padre sono io</indizio1>
-		<indizio2>il padre dell'uomo qui ritratto sono io</indizio2>
-		<indizio3>il padre dell'autore del quadro sono io</indizio3>
+		<indizio1>la figlia di mia madre sono io</indizio1>
+		<indizio2>la madre della donna qui ritratta sono io</indizio2>
+		<indizio3>la madre dell'autore del quadro sono io</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
@@ -1221,7 +1221,7 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 	
 	<domanda>
 		<tipo>testo</tipo>
-		<risorsa>quanti mesi hanno 28 giorni?</risorsa>
+		<risorsa>senza contare i termini stranieri, quante parole in questa frase hanno due lettere?</risorsa>
 		<risposta>12</risposta>
 		<indizio0>rispondi all'indovinello</indizio0>
 		<indizio1>se hai risposto 1 sei troppo avaro!</indizio1>
@@ -1230,7 +1230,7 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
-		<autore>bs indovinello febbraio</autore>
+		<autore>bs indovinello due lettere</autore>
 	</domanda>
 	
 	
