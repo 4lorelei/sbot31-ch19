@@ -1205,6 +1205,34 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs cifrario di jefferson</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>un uomo che sta guardando un autoritratto afferma: "Io non ho né fratelli né sorelle, ma il padre dell'uomo qui ritratto è figlio di mio padre"</risorsa>
+		<risposta>figlio</risposta>
+		<indizio0>chi è l'autore del quadro?</indizio0>
+		<indizio1>il figlio di mio padre sono io</indizio1>
+		<indizio2>il padre dell'uomo qui ritratto sono io</indizio2>
+		<indizio3>il padre dell'autore del quadro sono io</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+		<autore>bs indovinello autoritratto</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>testo</tipo>
+		<risorsa>quanti mesi hanno 28 giorni?</risorsa>
+		<risposta>12</risposta>
+		<indizio0>rispondi all'indovinello</indizio0>
+		<indizio1>se hai risposto 1 sei troppo avaro!</indizio1>
+		<indizio2>se rispondi 100 sei fuori di testa</indizio2>
+		<indizio3>la verità non è mai agli estremi</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+		<autore>bs indovinello febbraio</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
