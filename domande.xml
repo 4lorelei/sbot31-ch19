@@ -1247,6 +1247,21 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs porta del paradiso</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/personaggi_illustri.jpg</risorsa>
+		<risposta>aeroporto</risposta>
+		<indizio0>cosa accomuna questi illustri personaggi?</indizio0>
+		<indizio1>Raffaello Sanzio di Ancona, Giuglielmo Marconi di Bologna...</indizio1>
+		<indizio2>chi ama viaggiare difficilmente può farne a meno</indizio2>
+		<indizio3>per entrarci occorre avere un biglietto</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs personaggi illustri</autore>
+	</domanda>
+	
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
