@@ -1237,10 +1237,10 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 		<tipo>immagine</tipo>
 		<risorsa>immagini/paradiso.jpg</risorsa>
 		<risposta>prato</risposta>
-		<indizio0>qual è la via del Paradiso?</indizio0>
+		<indizio0>qual è la via per La Porta del Paradiso?</indizio0>
 		<indizio1>ponte Santa Trinità è una scorciatoia</indizio1>
 		<indizio2>siamo a Firenze</indizio2>
-		<indizio3>la Porta del Paradiso è un Hotel</indizio3>
+		<indizio3>La Porta del Paradiso è un Hotel</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
