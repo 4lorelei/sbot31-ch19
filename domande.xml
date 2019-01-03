@@ -1261,6 +1261,33 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs personaggi illustri</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/figure_retoriche.jpg</risorsa>
+		<risposta>litote</risposta>
+		<indizio0>cosa accomuna queste frasi?</indizio0>
+		<indizio1>è una particolare forma espressiva</indizio1>
+		<indizio2>non è un'allegoria</indizio2>
+		<indizio3>è una figura retorica che afferma mediante la negazione del contrario</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs figure retoriche</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/nonno.jpg</risorsa>
+		<risposta>29/02/1896</risposta>
+		<indizio0>riporta la data nel formato gg/mm/aaaa</indizio0>
+		<indizio1>la chiamata alle armi riguardò i nati prima del 1900</indizio1>
+		<indizio2>il nonno non festeggiava il compleanno tutti gli anni</indizio2>
+		<indizio3>il nonno era nato il 29 febbraio</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>bs compleanno del nonno</autore>
+	</domanda>
 	
 	
   	<domanda>
