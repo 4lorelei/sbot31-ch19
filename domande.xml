@@ -837,11 +837,11 @@ Tocca il pulsante "indizi" per continuare.
 	<domanda>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/signorsi.jpg</risorsa>
-		<risposta>ribaltata</risposta>
+		<risposta>specchio</risposta>
 		<indizio0>quando tutti sono d'accordo, quello è il momento di cambiare il proprio punto di vista!</indizio0>
 		<indizio1>la statistica ha la sua valenza</indizio1>
 		<indizio2>statisticamente c'è qualcosa che non va</indizio2>
-		<indizio3>cosa dici della scolaresca?</indizio3>
+		<indizio3>osserva la scolaresca: quasi tutti mancini?</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
@@ -1346,6 +1346,48 @@ ed assai triste è il passato"</indizio1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
  		<autore>gaudino versi cinese</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/divinita_porta.jpg</risorsa>
+		<risposta>li shimin</risposta>
+		<indizio0>di quale imperatore furono alleati?</indizio0>
+		<indizio1>divinità della Porta</indizio1>
+		<indizio2>Qin Qiong, Yuchi Gong</indizio2>
+		<indizio3>imperatore della dinastia Tang</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>gaudino divinità della porta</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/date_storiche.jpg</risorsa>
+		<risposta>napoli roma</risposta>
+		<indizio0>date storiche</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>di rosa date storiche</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/miele_medicina.jpg</risorsa>
+		<risposta>lucrezio tasso</risposta>
+		<indizio0>quali personaggi richiamano queste immagini?</indizio0>
+		<indizio1>due scrittori</indizio1>
+		<indizio2>il miele nasconde la medicina</indizio2>
+		<indizio3>metafora della poesia</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>di rosa miele e medicina</autore>
 	</domanda>
 	
 	
