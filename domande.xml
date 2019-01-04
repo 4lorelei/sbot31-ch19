@@ -1303,6 +1303,51 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
  		<autore>bs quadro nascosto</autore>
 	</domanda>
 	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/poeta_cinese.jpg</risorsa>
+		<risposta>cao cao</risposta>
+		<indizio0>chi è l’uomo nel ritratto?</indizio0>
+		<indizio1>"Ecco il vino! Dunque si canti,
+perché breve è la vita
+come rugiada al mattino
+ed assai triste è il passato"</indizio1>
+		<indizio2>"parli del diavolo e spuntano le corna"</indizio2>
+		<indizio3>Battaglia dei Tre Regni</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>gaudino poeta cinese</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>immagine</tipo>
+		<risorsa>immagini/ripa.jpg</risorsa>
+		<risposta>matteo ripa</risposta>
+		<indizio0>chi è l’uomo nel ritratto?</indizio0>
+		<indizio1>epoca Qing</indizio1>
+		<indizio2>Napoli</indizio2>
+		<indizio3>Università L’Orientale</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>gaudino università l'orientale</autore>
+	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/versi_cinese.jpg</risorsa>
+		<risposta>qu yuan</risposta>
+		<indizio0>l'autore di questi versi</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>120</attesa1>
+		<attesa2>240</attesa2>
+		<attesa3>360</attesa3>
+ 		<autore>gaudino versi cinese</autore>
+	</domanda>
+	
 	
   	<domanda>
 		<tipo>chiusura</tipo>
