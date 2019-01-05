@@ -496,7 +496,7 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
-		<attesa1>120</attesa1>
+		<attesa1>180</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
 		<autore>bs labirinto urlo</autore>
@@ -973,7 +973,7 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>le coordinate sono crittografate con il disco rotante</indizio1>
 		<indizio2>35.126114    -106.536564</indizio2>
 		<indizio3>è una serie TV</indizio3>
-		<attesa1>120</attesa1>
+		<attesa1>180</attesa1>
 		<attesa2>240</attesa2>
 		<attesa3>360</attesa3>
  		<autore>bs maps</autore>
@@ -1085,7 +1085,7 @@ ed assai triste è il passato"</indizio1>
 		<indizio0>...in italiano</indizio0>
 		<indizio1>è in codice</indizio1>
 		<indizio2>c'entra il profeta Geremia</indizio2>
-		<indizio3>è in codice atbash</indizio3>
+		<indizio3>è in codice Atbash (alfabeto italiano)</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>180</attesa2>
 		<attesa3>240</attesa3>
@@ -1125,7 +1125,7 @@ ed assai triste è il passato"</indizio1>
 		<risorsa>immagini/palline.jpg</risorsa>
 		<risposta>36705</risposta>
 		<indizio0>problem solving</indizio0>
-		<indizio1>in excel puoi usare la funzione RESTO()</indizio1>
+		<indizio1>teorema cinese del resto</indizio1>
 		<indizio2>su WolframAlpha per il calcolo del resto usa mod</indizio2>
 		<indizio3>... x mod 3 = 0; x mod 5 = 1; x mod 7 = 5; ....</indizio3>
 		<attesa1>120</attesa1>
@@ -1143,7 +1143,7 @@ ed assai triste è il passato"</indizio1>
 		</indizio0>
 		<indizio1>sono affermazioni autorefernziali</indizio1>
 		<indizio2>è la variante di un gioco classico</indizio2>
-		<indizio3>...questa lista contiene esattamente un’affermazione falsa</indizio3>
+		<indizio3>vere+false=10</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>180</attesa2>
 		<attesa3>240</attesa3>
