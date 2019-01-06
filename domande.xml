@@ -753,8 +753,22 @@ ed assai triste è il passato"</indizio1>
 		<attesa3>120</attesa3>
  		<autore>bs film auto</autore>
 	</domanda>
+	
+	<domanda>
+		<tipo>sequenza</tipo>
+		<risorsa>immagini/lingua_velenosa.jpg</risorsa>
+		<risposta>arsenico</risposta>
+		<indizio0>...in che senso?</indizio0>
+		<indizio1>fai il /refresh</indizio1>
+		<indizio2>fai il /refresh</indizio2>
+		<indizio3>fai il /refresh</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
+ 		<autore>bs lingua velenosa</autore>
+	</domanda>
 
-  <domanda>
+	<domanda>
         <tipo>audio</tipo>
         <risorsa>audio/ForrestGump _quiz.mp3</risorsa>
         <risposta>24</risposta>
