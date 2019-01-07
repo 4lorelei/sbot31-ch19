@@ -1005,9 +1005,13 @@ if(strpos($text, '/match') !== false && $utenteAdmin === true)
 				}
 				elseif(!isset($abl[3]) && !isset($abl[4]))
 				{
+					/*
 					$nulla="";
 					$nulla = json_encode($nulla);
 					file_put_contents($path_cron, $nulla, LOCK_EX);
+					*/
+					
+					unlink($path_cron);
 					
 					$msg = "rimosso comando a tempo";
 					
