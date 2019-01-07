@@ -944,7 +944,7 @@ if(strpos($text, '/sranking') !== false)
 			$elenco[$key]['sort']=sprintf("%03d",$value["livello"]).sprintf("%03d",$value["star"]).sprintf("%010d",$secondi_corr-$secondi);
 		}
 		
-		//$narr = array_sort($elenco, "sort", $order=SORT_DESC);
+		$narr = array_sort($elenco, "sort", $order=SORT_DESC);
 		$narr = $elenco;
 			
 		$response="<b>classifica generale</b>\n";
