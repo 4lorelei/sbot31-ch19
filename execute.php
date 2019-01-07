@@ -903,6 +903,9 @@ if(strpos($text, '/sranking') !== false)
 			
 		foreach ($myVarsArr as $key => $value)
 		{
+			if (current($key)=="")
+				break;
+			
 			if(isset($value['team']))
 			{
 				if (strlen($value['team'])>=1)
@@ -950,9 +953,6 @@ if(strpos($text, '/sranking') !== false)
 		$liv_curr = -1;
 		foreach ($narr as $key => $value) 
 		{
-			if(!isset($value['nick']))
-				break;
-			
 			$response_par = "";
 			if ($liv_curr != $value['livello'])
 			{
