@@ -903,7 +903,7 @@ if(strpos($text, '/sranking') !== false)
 			
 		foreach ($myVarsArr as $key => $value)
 		{
-			if ($key=="")
+			if ($key==<1)
 				break;
 			
 			if(isset($value['team']))
