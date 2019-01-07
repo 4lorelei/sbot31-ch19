@@ -327,9 +327,13 @@ if ($nuovoComando !== "nessuno")
 	$data_corrente = date("d/m/Y H:i", (int)$cron[timestamp]);
 	$chatId = 1; // nessuna ulteriore notifica
 	
+	/*
 	$nulla="";
 	$nulla = json_encode($nulla);
 	file_put_contents($path_cron, $nulla, LOCK_EX);
+	*/
+	
+	unlink($path_cron);
 	
 	if ($nuovoComando == "start")
 	{
