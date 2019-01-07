@@ -950,7 +950,7 @@ if(strpos($text, '/sranking') !== false)
 		$liv_curr = -1;
 		foreach ($narr as $key => $value) 
 		{
-			if ($value == "")
+			if(!isset($value['nick']))
 				break;
 			
 			$response_par = "";
