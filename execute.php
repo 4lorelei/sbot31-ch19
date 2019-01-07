@@ -945,7 +945,7 @@ if(strpos($text, '/sranking') !== false)
 		}
 		
 		//$narr = array_sort($elenco, "sort", $order=SORT_DESC);
-		
+		$narr = $elenco;
 			
 		$response="<b>classifica generale</b>\n";
 		$liv_curr = -1;
