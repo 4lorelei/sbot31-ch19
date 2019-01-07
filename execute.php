@@ -962,7 +962,7 @@ if(strpos($text, '/sranking') !== false)
 				$response_par = $response_par . " (".$value['star'].unichr($star_code).")";
 			$response_par = $response_par . "\n";
 			
-			if (strlen($response)+strlen($response_par)<4030)
+			if (strlen($response)+strlen($response_par)<3030)
 				$response = $response . $response_par;
 			else
 			{
