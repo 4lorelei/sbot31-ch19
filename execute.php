@@ -945,12 +945,14 @@ if(strpos($text, '/sranking') !== false)
 		}
 		
 		$narr = array_sort($elenco, "sort", $order=SORT_DESC);
-		$narr = $elenco;
 			
 		$response="<b>classifica generale</b>\n";
 		$liv_curr = -1;
 		foreach ($narr as $key => $value) 
 		{
+			if ($value == "")
+				break;
+			
 			$response_par = "";
 			if ($liv_curr != $value['livello'])
 			{
