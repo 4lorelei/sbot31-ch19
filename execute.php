@@ -841,7 +841,7 @@ if(strpos($text, '/sranking') !== false)
 {
 	$par  = explode(" ", $text);
 
-	if (!isset($par[1]) || $par[1]==='-V')
+	if (!isset($par[1]) || $par[1]==='-vv')
 	{
 
 		foreach ($myVarsArr as $key => $value)
@@ -898,7 +898,7 @@ if(strpos($text, '/sranking') !== false)
 		if (!isset($par[1]))
 			$response = $response . "\n-----------------------\n/ranking liv    per i dettagli\nliv è un numero oppure 'top'";
 	}
-	else if($par[1] == "-K")
+	else if($par[1] == "-kk")
 	{
 			
 		foreach ($myVarsArr as $key => $value)
