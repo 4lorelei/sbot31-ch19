@@ -761,8 +761,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>il nonno non festeggiava il compleanno tutti gli anni</indizio2>
 		<indizio3>il nonno era nato il 29 febbraio</indizio3>
 		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
  		<autore>bs compleanno del nonno</autore>
 	</domanda>
 	
@@ -774,9 +774,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>le coordinate sono crittografate con il disco rotante</indizio1>
 		<indizio2>35.126114    -106.536564</indizio2>
 		<indizio3>è una serie TV</indizio3>
-		<attesa1>180</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs maps</autore>
 	</domanda>
 	
@@ -789,8 +789,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
 		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
  		<autore>bs grafi isomorfi</autore>
 	</domanda>	
 
@@ -817,9 +817,9 @@ ed assai triste è il passato"</indizio1>
         <indizio1>...almeno scegli un dispositivo con un monitor grande</indizio1>
         <indizio2>...un browser alternativo forse potrebbe servire</indizio2>
         <indizio3>la scelta giusta è quella di valutare tutte le possibilità: Android, iOS, Win/Chrome, Win/Edge, Win/Mozilla, Win/Opera</indizio3>
-		<attesa1>180</attesa1>
-		<attesa2>480</attesa2>
-		<attesa3>600</attesa3>
+		<attesa1>90</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
         <autore>bs user agent</autore>
     </domanda>
 	
@@ -859,9 +859,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
 		<autore>bs pitagora</autore>
 	</domanda>	
 	
@@ -930,8 +930,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>su WolframAlpha per il calcolo del resto usa mod</indizio2>
 		<indizio3>... x mod 3 = 0; x mod 5 = 1; x mod 7 = 5; ....</indizio3>
 		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
  		<autore>bs palline</autore>
 	</domanda>
 	
@@ -959,9 +959,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs baudo capellone</autore>
 	</domanda>
 	
@@ -973,9 +973,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>Raffaello Sanzio di Ancona, Giuglielmo Marconi di Bologna...</indizio1>
 		<indizio2>chi ama viaggiare difficilmente può farne a meno</indizio2>
 		<indizio3>per entrarci occorre avere un biglietto</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs personaggi illustri</autore>
 	</domanda>
 	
@@ -1031,8 +1031,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>dà sapore</indizio2>
 		<indizio3>si sparge sulle strade ghiacciate</indizio3>
 		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
  		<autore>bs Cartagine rasa</autore>
 	</domanda>
 	
@@ -1045,8 +1045,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>testimonianze sul carteggio non ce ne sono</indizio2>
 		<indizio3>nel 1582 è introdotto il calendario Gregoriano e quindi...</indizio3>
 		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
  		<autore>calemme calendario</autore>
 	</domanda>
 
@@ -1058,9 +1058,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>è una particolare forma espressiva</indizio1>
 		<indizio2>non è un'allegoria</indizio2>
 		<indizio3>è una figura retorica che afferma mediante la negazione del contrario</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs figure retoriche</autore>
 	</domanda>
 	
@@ -1072,9 +1072,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>una striscia ripiegata su se stessa</indizio1>
 		<indizio2>il titolo di un romanzo</indizio2>
 		<indizio3>...dedicato a Constance Dowling</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs font segmentato</autore>
 	</domanda>
 
@@ -1086,9 +1086,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs oggetti simbolo</autore>
 	</domanda>
 	
@@ -1100,9 +1100,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs labirinto espressione</autore>
 	</domanda>
 	
@@ -1114,9 +1114,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs cifrario di jefferson</autore>
 	</domanda>
 
@@ -1128,9 +1128,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>ponte Santa Trinità è una scorciatoia</indizio1>
 		<indizio2>siamo a Firenze</indizio2>
 		<indizio3>La Porta del Paradiso è un Hotel</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs porta del paradiso</autore>
 	</domanda>
 	
@@ -1141,10 +1141,10 @@ ed assai triste è il passato"</indizio1>
 		<indizio0>quando tutti sono d'accordo, quello è il momento di cambiare il proprio punto di vista!</indizio0>
 		<indizio1>la statistica ha la sua valenza</indizio1>
 		<indizio2>statisticamente c'è qualcosa che non va</indizio2>
-		<indizio3>osserva la scolaresca: quasi tutti mancini?</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<indizio3>osserva la scolaresca: quasi tutti mancini? strana foto!</indizio3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs foto a specchio</autore>
 	</domanda>
 
@@ -1156,9 +1156,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>l’intera vita umana è solo un gioco, il semplice gioco della Follia</indizio1>
 		<indizio2>è un arcano</indizio2>
 		<indizio3>...un arcano maggiore</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>120</attesa2>
+		<attesa3>180</attesa3>
  		<autore>bs tarocchi</autore>
 	</domanda>
 	
@@ -1185,8 +1185,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
 		<attesa1>120</attesa1>
-		<attesa2>240</attesa2>
-		<attesa3>360</attesa3>
+		<attesa2>180</attesa2>
+		<attesa3>240</attesa3>
  		<autore>bs sommacolori</autore>
 	</domanda>
 		
