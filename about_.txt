@@ -18,7 +18,7 @@
 
 9. è possibile inviare segnalzioni all'admin tramite la chat dedicata
 
-10. il giocatore che per primo supera un livello conquista una "stella" di cui beneficierà anche il team
+10. il giocatore che per primo supera un livello conquista una "stella" di cui beneficerà anche il team
 
 11. nel momento in cui un giocatore entra a far parte di un team già esistente, perde le "stelle" che aveva conquistato in precedenza; se un giocatore esce da un team o ne costituisce uno, non perde le stelle già conquistate
 

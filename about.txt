@@ -35,7 +35,7 @@ REGOLAMENTO:
 
 8. per formare una squadra utilizzare il comando /team; tutti i giocatori del team sono alla pari (non esiste un capitano o un amministratore), indipendetemente da chi costituisce il team
 
-9. il giocatore che per primo supera un livello conquista una "stella" di cui beneficierà anche il team
+9. il giocatore che per primo supera un livello conquista una "stella" di cui beneficerà anche il team
 
 10. la gara termina non appena verrà trovato il tesoro da uno dei giocatori e comunque entro il termine fissato dagli organizzatori
 
