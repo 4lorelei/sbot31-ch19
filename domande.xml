@@ -987,7 +987,7 @@ ed assai triste è il passato"</indizio1>
 (esempio: scrivere BDGH per indicare che gli esagoni B D G H dovrebbero essere gialli; rispettare l'ordine alfabetico)</indizio0>
 		<indizio1>parti dalla base e risali verso l'alto</indizio1>
 		<indizio2>tre colori... base 3</indizio2>
-		<indizio3>sono semplici moltiplicazioni</indizio3>
+		<indizio3>sono semplici moltiplicazioni, considera che il giallo vale 0</indizio3>
 		<attesa1>120</attesa1>
 		<attesa2>180</attesa2>
 		<attesa3>240</attesa3>
