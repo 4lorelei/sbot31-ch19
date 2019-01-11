@@ -1002,9 +1002,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>è un artista contemporaneo</indizio1>
 		<indizio2>rappresenta un mondo florido e opulento</indizio2>
 		<indizio3>la sua "Gioconda" fu esposta all'Expo 2015</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs identikit artista</autore>
 	</domanda>
 
@@ -1030,9 +1030,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>considera anche la parola "pepe"</indizio1>
 		<indizio2>dà sapore</indizio2>
 		<indizio3>si sparge sulle strade ghiacciate</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs Cartagine rasa</autore>
 	</domanda>
 	
@@ -1044,9 +1044,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>soffermati sulle date</indizio1>
 		<indizio2>testimonianze sul carteggio non ce ne sono</indizio2>
 		<indizio3>nel 1582 è introdotto il calendario Gregoriano e quindi...</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>calemme calendario</autore>
 	</domanda>
 
@@ -1059,8 +1059,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>non è un'allegoria</indizio2>
 		<indizio3>è una figura retorica che afferma mediante la negazione del contrario</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs figure retoriche</autore>
 	</domanda>
 	
@@ -1073,8 +1073,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>il titolo di un romanzo</indizio2>
 		<indizio3>...dedicato a Constance Dowling</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs font segmentato</autore>
 	</domanda>
 
@@ -1087,8 +1087,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs oggetti simbolo</autore>
 	</domanda>
 	
@@ -1101,8 +1101,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs labirinto espressione</autore>
 	</domanda>
 	
@@ -1115,8 +1115,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>fai il /refresh</indizio2>
 		<indizio3>fai il /refresh</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs cifrario di jefferson</autore>
 	</domanda>
 
@@ -1129,8 +1129,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>siamo a Firenze</indizio2>
 		<indizio3>La Porta del Paradiso è un Hotel</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs porta del paradiso</autore>
 	</domanda>
 	
@@ -1141,7 +1141,7 @@ ed assai triste è il passato"</indizio1>
 		<indizio0>quando tutti sono d'accordo, quello è il momento di cambiare il proprio punto di vista!</indizio0>
 		<indizio1>la statistica ha la sua valenza</indizio1>
 		<indizio2>statisticamente c'è qualcosa che non va</indizio2>
-		<indizio3>osserva la scolaresca: quasi tutti mancini? strana foto!</indizio3>
+		<indizio3>osserva la scolaresca: quasi tutti mancini? la foto è...</indizio3>
 		<attesa1>60</attesa1>
 		<attesa2>90</attesa2>
 		<attesa3>120</attesa3>
@@ -1157,8 +1157,8 @@ ed assai triste è il passato"</indizio1>
 		<indizio2>è un arcano</indizio2>
 		<indizio3>...un arcano maggiore</indizio3>
 		<attesa1>60</attesa1>
-		<attesa2>120</attesa2>
-		<attesa3>180</attesa3>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs tarocchi</autore>
 	</domanda>
 	
@@ -1170,9 +1170,9 @@ ed assai triste è il passato"</indizio1>
 		<indizio1>può avere la "testa" a ombrello</indizio1>
 		<indizio2>faceva ombra alle ceneri di Pirandello</indizio2>
 		<indizio3>è una conifera</indizio3>
-		<attesa1>120</attesa1>
-		<attesa2>180</attesa2>
-		<attesa3>240</attesa3>
+		<attesa1>60</attesa1>
+		<attesa2>90</attesa2>
+		<attesa3>120</attesa3>
  		<autore>bs albero di Pirandello</autore>
 	</domanda>
 	
