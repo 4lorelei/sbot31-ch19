@@ -1,6 +1,19 @@
-﻿<b>Chestnut 2019 Replay</b>
+﻿<b>Riconoscimenti:</b>
 
-A partire dalla classifica finale della gara, Chestnut 2019 Replay da la possibilità a tutti gli utenti di affrontare i quesiti della gara avendo a disposizione gli inidizi con l'attesa di pochi minuti e con le soluzioni in chiaro nel presente documento.
+Ciao,
+mi chiamo Lara Luu e sono il robot che ti assiste durante la gara.
+
+Desidero ringraziare la D.S. avv. Annunziata Langella, il "Team per l'Innovazione digitale" e tutti i docenti del Liceo Nobel che hanno sostenuto e reso possibile questa iniziativa.
+		
+In modo particolare ringrazio calorosamente coloro che hanno collaborato a predisporre gli enigmi della caccia al tesoro.
+
+Infine, mando un saluto affettuoso ad Andrea e Bruno Sarto che mi hanno ideata e programmata.
+
+──────────────────
+
+<b>Chestnut 2019 Replay</b>
+
+A partire dalla classifica finale della gara, Chestnut 2019 Replay dà la possibilità a tutti gli utenti di affrontare i quesiti della gara avendo a disposizione gli inidizi con l'attesa di pochi minuti e con le soluzioni in chiaro nel presente documento.
 Il server, dopo un breve periodo di inutilizzo, ripristina i valori originari della classifica.
 
 E' possibile ripartire dal livello 0 eseguendo il comando /zero
@@ -90,20 +103,6 @@ Per ciascun livello è valida qualsiasi frase che contenga le parole indicate ac
 80: il matto
 81: pino
 82: ffecff
-
-
-──────────────
-
-<b>Riconoscimenti:</b>
-
-Ciao,
-mi chiamo Lara Luu e sono il robot che ti assiste durante la gara.
-
-Desidero ringraziare la D.S. avv. Annunziata Langella, il "Team per l'Innovazione digitale" e tutti i docenti del Liceo Nobel che hanno sostenuto e reso possibile questa iniziativa.
-		
-In modo particolare ringrazio calorosamente coloro che hanno collaborato a predisporre gli enigmi della caccia al tesoro.
-
-Infine, mando un saluto affettuoso ad Andrea e Bruno Sarto che mi hanno ideata e programmata.
 
                                Lara Luu
 			   
