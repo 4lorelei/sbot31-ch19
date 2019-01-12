@@ -1,1 +1,1 @@
-{"270509489":true,"flag":true,"stato_gioco":"in_pausa","maxTeam":7}
+{"270509489":true,"flag":true,"stato_gioco":"in_esecuzione"}

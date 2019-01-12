@@ -1,28 +1,96 @@
-﻿<b>Regolamento:</b>
+﻿<b>Chestnut 2019 Replay</b>
 
-1. la caccia al tesoro è riservata agli studenti del Liceo Nobel
+A partire dalla classifica finale della gara, Chestnut 2019 Replay da la possibilità a tutti gli utenti di affrontare i quesiti della gara avendo a disposizione gli inidizi con l'attesa di pochi minuti e con le soluzioni in chiaro nel presente documento.
+Il server, dopo un breve periodo di inutilizzo, ripristina i valori originari della classifica.
 
-2. ad ogni enigma occorre rispondere con una o più parole, numeri o codici; il bot non fa distinzione tra minuscole e maiuscole e  considera corretta ogni risposta che includa tutte le parole previste nella soluzione, indipendentemente dall'ordine; gli apostrofi e le lettere accentate, se presenti nella soluzione, devono essere inseriti correttamente
+E' possibile ripartire dal livello 0 eseguendo il comando /zero
 
-3. tramite i pulsanti "enigma" e "indizi" è possibile visualizzare l'enigma corrente e gli indizi disponibili per l'enigma; nuovi indizi si rendono disponibili con il passare del tempo
+<b>Soluzioni</b>
+Per ciascun livello è valida qualsiasi frase che contenga le parole indicate accanto al numero del livello
 
-4. quando un enigma è stato risolto, il bot propone automaticamente quello successivo, fino al raggiungimento dell'ultimo enigma che conduce al tesoro
+1:  madre
+2:  nobel peace prize
+3:  +346,5 -396
+4:  luigi strada
+5:  chiave
+6:  lamborghini
+7:  cao cao
+8:  figlia
+9:  obama
+10: forza
+11: socrate
+12: pastafarianesimo
+13: quasimodo
+14: libro
+15: piedi
+16: 10,25
+17: scheletro
+18: urlo
+19: giulio ii
+20: matto del barbiere
+21: penna
+22: 4.18
+23: matteo ripa
+24: pearl harbor
+25: buongiorno
+26: 720 31 4
+27: giorgia federica emma
+28: chitarra
+29: 100999 140999 150996
+30: apollo 13
+31: reparata
+32: peperoncino senape origano cipolla zafferano
+33: the old man and the sea
+34: picasso
+35: girl with balloon
+36: duel
+37: arsenico
+38: 24
+39: beats
+40: nodo
+41: nettuno
+42: tesla
+43: 15
+44: napoli roma
+45: l'amore mi fa sollazzare
+46: luca ward
+47: mendeleev dna sheldon
+48: palais découverte
+49: quadrato
+50: defh
+51: qu yuan
+52: 29/02/1896
+53: breaking bad
+54: 541326
+55: gittata cardiaca
+56: turing
+57: les amants
+58: frattali
+59: 97,22
+60: 432651
+61: difficile
+62: lucrezio tasso
+63: li shimin
+64: 36705
+65: BH
+66: e fuori nevica
+67: aeroporto
+68: abcdefghlmn
+69: botero
+70: robert kennedy
+71: sale
+72: 10 ottobre 1582
+73: litote
+74: la luna e i falo
+75: monroe daguerre bíró
+76: 9441
+77: pezzi di marmo
+78: prato
+79: specchio
+80: il matto
+81: pino
+82: ffecff
 
-5. quando un giocatore trova il tesoro pone fine alla gara per tutti i giocatori 
-
-6. i giocatori hanno la possibilità di impostare un "nickname" (nome di fantasia usato durante la gara) e di registrarsi inserendo i propri dati anagrafici; la registrazione è obbligatoria per essere inseriti nella classifica ufficiale e concorrere alla premiazione finale
-
-7. un giocatore che ha impostato il nickname può costituire un "team" e aggiungere ad esso altri giocatori (anche questi ultimi devono aver impostato il nickname)
-
-8. è possibile visualizzare in tempo reale la classifica con i livelli occupati dai giocatori singoli e dai team; la calssifica generale non tiene conto dei giocatori anonimi e ordina i concorrenti in base ai livelli, le stelle e la data di accesso all'ultimo livello 
-
-9. è possibile inviare segnalzioni all'admin tramite la chat dedicata
-
-10. il giocatore che per primo supera un livello conquista una "stella" di cui beneficerà anche il team
-
-11. nel momento in cui un giocatore entra a far parte di un team già esistente, perde le "stelle" che aveva conquistato in precedenza; se un giocatore esce da un team o ne costituisce uno, non perde le stelle già conquistate
-
-12. ulteriori informazioni sono incluse nelle FAQ scaricabili tramite il pulsante "faq"
 
 ──────────────
 
@@ -38,3 +106,4 @@ In modo particolare ringrazio calorosamente coloro che hanno collaborato a predi
 Infine, mando un saluto affettuoso ad Andrea e Bruno Sarto che mi hanno ideata e programmata.
 
                                Lara Luu
+			   
