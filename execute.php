@@ -28,6 +28,7 @@ if(!$update)
 $token="738410474:AAHdHaQ0M3pOmMf1uU9boanIc4JtFy3V5ww";
 //BigBugs - (LaraLuu test - BigBugs evo)
 //$token="327275867:AAFGxtaZMUmwR08BIzI542RmdYfMrwPn36w";
+
 $botUrl = "https://api.telegram.org/bot".$token."/sendPhoto";
 $botUrlVoice = "https://api.telegram.org/bot".$token."/sendVoice";
 $botUrlVideo = "https://api.telegram.org/bot".$token."/sendVideo";
@@ -1156,7 +1157,7 @@ if(strpos($text, '/match') !== false && $utenteAdmin === true)
 					//Telegram prescrive una pausa di 1 sec ogni 30 notifiche 
 					if ($j % 20 == 0)
 					{
-						sleep(5);
+						sleep(1);
 					}
 					$j++;
 					$ch = curl_init();
@@ -4551,9 +4552,6 @@ else
 			}
 			$myVarsJson = json_encode($myVarsArr);
 			file_put_contents($path, $myVarsJson, LOCK_EX);
-			
-			sleep(5);
-			
 			flock($file,LOCK_UN);
 			fclose($file);
 			//verifica di congruenza
@@ -4729,9 +4727,6 @@ else
 		}
 		$myVarsJson = json_encode($myVarsArr);
 		file_put_contents($path, $myVarsJson, LOCK_EX);
-		
-		sleep(5);
-		
 		flock($file,LOCK_UN);
 		fclose($file);
 		//verifica di congruenza
