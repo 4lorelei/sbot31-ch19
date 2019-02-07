@@ -4423,8 +4423,6 @@ if(strpos($text, '/refresh') !== false)
 else
 {
 	
-	
-	
 	// quesito di tipo tartaruga - risposta giunta troppo presto
 	if ($myVarsArr[$chatId]["tartaruga"]>0 && $tartaruga_livello_xml > 0 && 
 	    ($myVarsArr[$chatId]["tartaruga"]+$tartaruga_livello_xml) > time())
@@ -4733,7 +4731,7 @@ else
 		$myVarsJson = json_encode($myVarsArr);
 		file_put_contents($path, $myVarsJson, LOCK_EX);
 		
-		sleep(5)
+		sleep(5);
 		
 		flock($file,LOCK_UN);
 		fclose($file);
