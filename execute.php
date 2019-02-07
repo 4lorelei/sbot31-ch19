@@ -179,7 +179,7 @@ $data_livello = isset($myVarsArr[$chatId]["date"]) ? $myVarsArr[$chatId]["date"]
 $nickId = isset($myVarsArr[$chatId]["nick"]) ? $myVarsArr[$chatId]["nick"] : "NICK non impostato";
 $teamId = isset($myVarsArr[$chatId]["team"]) ? $myVarsArr[$chatId]["team"] : "giocatore singolo";
 $bonus_da_applicare = isset($myVarsArr[$chatId]["bonus"]) ? $myVarsArr[$chatId]["bonus"] : 0;
-//$prima_risposta = isset($myVarsArr[$chatId]["prima_risposta"]) ? $myVarsArr[$chatId]["prima_risposta"] : -1;
+$prima_risposta = isset($myVarsArr[$chatId]["prima_risposta"]) ? $myVarsArr[$chatId]["prima_risposta"] : -1;
 //lettura da file delle abilitazioni degli indizi per tutti i livelli
 //$abilitazione = array(0=>1, 1=>0, 2=>0);
 $myAblJson = file_get_contents($path_abl);
@@ -4423,6 +4423,8 @@ if(strpos($text, '/refresh') !== false)
 else
 {
 	
+	
+	
 	// quesito di tipo tartaruga - risposta giunta troppo presto
 	if ($myVarsArr[$chatId]["tartaruga"]>0 && $tartaruga_livello_xml > 0 && 
 	    ($myVarsArr[$chatId]["tartaruga"]+$tartaruga_livello_xml) > time())
@@ -4731,7 +4733,7 @@ else
 		$myVarsJson = json_encode($myVarsArr);
 		file_put_contents($path, $myVarsJson, LOCK_EX);
 		
-		sleep(5);
+		sleep(5)
 		
 		flock($file,LOCK_UN);
 		fclose($file);
