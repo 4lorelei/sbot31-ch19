@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+Ôªø<?xml version="1.0" encoding="utf-8"?>
 <tesoro>
 	<domanda>
 		<tipo>testo</tipo>
 		<risorsa>
 Benvenuto in Chestnut 2019 Replay.
-Gli avanzamenti nei livelli ed eventauli registrazioni saranno annullati dopo un breve periodo di inutilizzo del bot e sar‡ ripristinata la classifica finale della gara.
+Gli avanzamenti nei livelli ed eventauli registrazioni saranno annullati dopo un breve periodo di inutilizzo del bot e sar√† ripristinata la classifica finale della gara.
 
 I tempi di attesa per gli indizi sono di pochi minuti e le soluzioni degli enigmi sono disponibili tramite il menu about/info.
 
@@ -35,16 +35,16 @@ Tocca il pulsante "indizi" per continuare.
 
 	 <domanda>
 		<tipo>immagine</tipo>
-		<risorsa>immagini/colibrÏ.jpg</risorsa>
+		<risorsa>immagini/colibr√¨.jpg</risorsa>
 		<risposta>madre</risposta>
-		<indizio0>nel nido su un albero vivono due colibrÏ, uno grande e l'altro piccolo: il pi˘ piccolo Ë il figlio del colibrÏ pi˘ grande, ma questo non Ë suo padre; chi Ë allora?</indizio0>
-		<indizio1>il colibrÏ Ë l'uccello pi˘ piccolo del mondo; ne Ë stato misurato uno di 5 cm di lunghezza per 1,6 grammi di peso</indizio1>
-		<indizio2>riesce a sostare immobile sospeso grazie a un battito díali velocissimo</indizio2>
+		<indizio0>nel nido su un albero vivono due colibr√¨, uno grande e l'altro piccolo: il pi√π piccolo √® il figlio del colibr√¨ pi√π grande, ma questo non √® suo padre; chi √® allora?</indizio0>
+		<indizio1>il colibr√¨ √® l'uccello pi√π piccolo del mondo; ne √® stato misurato uno di 5 cm di lunghezza per 1,6 grammi di peso</indizio1>
+		<indizio2>riesce a sostare immobile sospeso grazie a un battito d‚Äôali velocissimo</indizio2>
 		<indizio3>...ed ha due genitori, come tutti gli altri uccellini</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
- 		<autore>bs colibrÏ</autore>
+ 		<autore>bs colibr√¨</autore>
 	</domanda>
 	
 	<domanda>
@@ -72,7 +72,7 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 (es. +325 -270,75)</indizio0>
 		<indizio1>4 ruote girano in senso orario e 4 in senso antiorario</indizio1>
 		<indizio2>le ruote piccole compiono tutte lo stesso numero di giri</indizio2>
-		<indizio3>la ruota grande compie la met‡ dei giri di una ruota piccola</indizio3>
+		<indizio3>la ruota grande compie la met√† dei giri di una ruota piccola</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -84,8 +84,8 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
         <risorsa>audio/eduardo_cra.mp3</risorsa>
         <risposta>luigi strada</risposta>
         <indizio0>l'autore della poesia</indizio0>
-        <indizio1>Ë un personaggio della commedia</indizio1>
-        <indizio2>... Ditegli sempre di sÏ</indizio2>
+        <indizio1>√® un personaggio della commedia</indizio1>
+        <indizio2>... Ditegli sempre di s√¨</indizio2>
         <indizio3>l'inquilino di Teresa Lo Giudice</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -125,11 +125,11 @@ N.B. indicare con + i giri in senso orario e con - i giri in senso antiorario
 		<tipo>immagine</tipo>
 		<risorsa>immagini/poeta_cinese.jpg</risorsa>
 		<risposta>cao cao</risposta>
-		<indizio0>chi Ë líuomo nel ritratto?</indizio0>
+		<indizio0>chi √® l‚Äôuomo nel ritratto?</indizio0>
 		<indizio1>"Ecco il vino! Dunque si canti,
-perchÈ breve Ë la vita
+perch√© breve √® la vita
 come rugiada al mattino
-ed assai triste Ë il passato"</indizio1>
+ed assai triste √® il passato"</indizio1>
 		<indizio2>"parli del diavolo e spuntano le corna"</indizio2>
 		<indizio3>Battaglia dei Tre Regni</indizio3>
 		<attesa1>1</attesa1>
@@ -140,9 +140,9 @@ ed assai triste Ë il passato"</indizio1>
 	
 	<domanda>
 		<tipo>testo</tipo>
-		<risorsa>una donna sta guardando un quadro che raffigura un autoritratto e afferma: "mia madre ha una sola figlia eppure la madre della donna qui ritratta Ë figlia di mia madre"</risorsa>
+		<risorsa>una donna sta guardando un quadro che raffigura un autoritratto e afferma: "mia madre ha una sola figlia eppure la madre della donna qui ritratta √® figlia di mia madre"</risorsa>
 		<risposta>figlia</risposta>
-		<indizio0>chi Ë l'autore del quadro?</indizio0>
+		<indizio0>chi √® l'autore del quadro?</indizio0>
 		<indizio1>la figlia di mia madre sono io</indizio1>
 		<indizio2>la madre della donna qui ritratta sono io</indizio2>
 		<indizio3>la madre dell'autore del quadro sono io</indizio3>
@@ -173,7 +173,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>quale parola collega questi vocaboli?</indizio0>
 		<indizio1>maggiore</indizio1>
 		<indizio2>destino</indizio2>
-		<indizio3>gravit‡</indizio3>
+		<indizio3>gravit√†</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -186,8 +186,8 @@ ed assai triste Ë il passato"</indizio1>
 		<risposta>socrate</risposta>
 		<indizio0>chi pronuncia il discorso celato nel quadrifoglio?</indizio0>
 		<indizio1>fu pronunciato nel IV secolo a.C.</indizio1>
-		<indizio2>Ë un'apologia</indizio2>
-		<indizio3>Ë un filosofo greco</indizio3>
+		<indizio2>√® un'apologia</indizio2>
+		<indizio3>√® un filosofo greco</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -200,8 +200,8 @@ ed assai triste Ë il passato"</indizio1>
 		<risposta>pastafarianesimo</risposta>
 		<indizio0>a cosa si riferiscono questi simboli?</indizio0>
 		<indizio1>la scolapasta viene messa in testa</indizio1>
-		<indizio2>si potrebbe affermare che Ë una fede</indizio2>
-		<indizio3>Ë un credo religioso</indizio3>
+		<indizio2>si potrebbe affermare che √® una fede</indizio2>
+		<indizio3>√® un credo religioso</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -212,10 +212,10 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/paris.jpg</risorsa>
 		<risposta>quasimodo</risposta>
-		<indizio0>chi c'Ë al centro della scena?</indizio0>
-		<indizio1>Ë protagonosta di una storia ambientata a Parigi</indizio1>
+		<indizio0>chi c'√® al centro della scena?</indizio0>
+		<indizio1>√® protagonosta di una storia ambientata a Parigi</indizio1>
 		<indizio2>... nella cattedrale di Notre-Dame</indizio2>
-		<indizio3>Ë follemente innamorato di Esmeralda</indizio3>
+		<indizio3>√® follemente innamorato di Esmeralda</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -240,8 +240,8 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>video</tipo>
 		<risorsa>video/pearlharbor.mp4</risorsa>
 		<risposta>piedi</risposta>
-		<indizio0>c'Ë qualcosa che non va!</indizio0>
-		<indizio1>Ë il discorso del presidente Roosevelt dopo l'attacco di Pearl Harbor</indizio1>
+		<indizio0>c'√® qualcosa che non va!</indizio0>
+		<indizio1>√® il discorso del presidente Roosevelt dopo l'attacco di Pearl Harbor</indizio1>
 		<indizio2>cerca il video originale</indizio2>
 		<indizio3>il presidente era disabile</indizio3>
 		<attesa1>1</attesa1>
@@ -256,7 +256,7 @@ ed assai triste Ë il passato"</indizio1>
 		<risposta>10,25</risposta>
 		<indizio0>quanti giri e frazione di giro deve compiere la lancetta dei minuti per passare dalla posizione dell'orologio A a quella dell'orologio B?</indizio0>
 		<indizio1>il numero ha una parte decimale</indizio1>
-		<indizio2>Ë un numero di quattro cifre</indizio2>
+		<indizio2>√® un numero di quattro cifre</indizio2>
 		<indizio3>mezzo giro corrisponde a 0,50 </indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -296,7 +296,7 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/capodimonte.jpg</risorsa>
 		<risposta>giulio ii</risposta>
-		<indizio0>l'osservatore resta senza parole, perchÈ?</indizio0>
+		<indizio0>l'osservatore resta senza parole, perch√©?</indizio0>
 		<indizio1>museo di Capodimonte</indizio1>
 		<indizio2>picture in picture</indizio2>
 		<indizio3>Raffaello Sanzio</indizio3>
@@ -352,14 +352,14 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/ripa.jpg</risorsa>
 		<risposta>matteo ripa</risposta>
-		<indizio0>chi Ë líuomo nel ritratto?</indizio0>
+		<indizio0>chi √® l‚Äôuomo nel ritratto?</indizio0>
 		<indizio1>epoca Qing</indizio1>
 		<indizio2>Napoli</indizio2>
-		<indizio3>Universit‡ LíOrientale</indizio3>
+		<indizio3>Universit√† L‚ÄôOrientale</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
- 		<autore>gaudino universit‡ l'orientale</autore>
+ 		<autore>gaudino universit√† l'orientale</autore>
 	</domanda>
 
 	<domanda>
@@ -369,7 +369,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>a cosa si riferiscono gli emoticon?</indizio0>
 		<indizio1>il titolo di un film</indizio1>
 		<indizio2>un film del 2001</indizio2>
-		<indizio3>Ë un remake di Tora! Tora! Tora!</indizio3>
+		<indizio3>√® un remake di Tora! Tora! Tora!</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -383,7 +383,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>in italiano</indizio0>
 		<indizio1>rileva le lettere con un OCR</indizio1>
 		<indizio2>dal russo</indizio2>
-		<indizio3>Ë un saluto</indizio3>
+		<indizio3>√® un saluto</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -436,8 +436,8 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/pesate.jpg</risorsa>
 		<risposta>100999 140999 150996</risposta>
-		<indizio0>qual Ë il peso in grammi delle tre scatole?</indizio0>
-		<indizio1>la sensibilit‡ della bilancia Ë il grammo anche se il display mostra i Kg</indizio1>
+		<indizio0>qual √® il peso in grammi delle tre scatole?</indizio0>
+		<indizio1>la sensibilit√† della bilancia √® il grammo anche se il display mostra i Kg</indizio1>
 		<indizio2>occorre tenere in conto i grammi non visualizzati sul display</indizio2>
 		<indizio3>la scatola gialla "sfiora" i 101 kg</indizio3>
 		<attesa1>1</attesa1>
@@ -451,8 +451,8 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/apollo.jpg</risorsa>
 		<risposta>apollo 13</risposta>
 		<indizio0>il titolo</indizio0>
-		<indizio1>Ë un film del 1995</indizio1>
-		<indizio2>Ë anche una missione</indizio2>
+		<indizio1>√® un film del 1995</indizio1>
+		<indizio2>√® anche una missione</indizio2>
 		<indizio3>...spaziale</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -481,7 +481,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>individua cinque parole collegate tra loro</indizio0>
 		<indizio1>cerca anche in diagonale</indizio1>
 		<indizio2>sono spezie o aromi utilizzati comunemente in cucina</indizio2>
-		<indizio3>c'Ë anche il granello di senape</indizio3>
+		<indizio3>c'√® anche il granello di senape</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -506,10 +506,10 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/arte_rosa_blu.jpg</risorsa>
 		<risposta>picasso</risposta>
-		<indizio0>il riferimento Ë a...</indizio0>
-		<indizio1>Ë un personaggio spagnolo</indizio1>
-		<indizio2>Ë un protagonista del XX secolo</indizio2>
-		<indizio3>Ë un pittore e scultore</indizio3>
+		<indizio0>il riferimento √® a...</indizio0>
+		<indizio1>√® un personaggio spagnolo</indizio1>
+		<indizio2>√® un protagonista del XX secolo</indizio2>
+		<indizio3>√® un pittore e scultore</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -521,9 +521,9 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/cornice_cosa.jpg</risorsa>
 		<risposta>girl with balloon</risposta>
 		<indizio0>what?</indizio0>
-		<indizio1>indubbiamente Ë una codifica strana</indizio1>
+		<indizio1>indubbiamente √® una codifica strana</indizio1>
 		<indizio2>usa simboli non alfabetici al posto delle normali lettere</indizio2>
-		<indizio3>Ë per pochi eletti, una codifica di Èlite (1337)</indizio3>
+		<indizio3>√® per pochi eletti, una codifica di √©lite (1337)</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -604,9 +604,9 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/cornice.jpg</risorsa>
 		<risposta>nettuno</risposta>
-		<indizio0>a chi Ë dedicata questa fontana?</indizio0>
+		<indizio0>a chi √® dedicata questa fontana?</indizio0>
 		<indizio1>fu voluta da Carlo Borromeo al tempo di Pio IV</indizio1>
-		<indizio2>Ë situata in Piazza Maggiore</indizio2>
+		<indizio2>√® situata in Piazza Maggiore</indizio2>
 		<indizio3>...a Bologna</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -620,8 +620,8 @@ ed assai triste Ë il passato"</indizio1>
 		<risposta>tesla</risposta>
 		<indizio0>identikit</indizio0>
 		<indizio1>era in grado di produrre correnti a radiofrequenza</indizio1>
-		<indizio2>il suo nome Ë collegato alla "guerra delle correnti"</indizio2>
-		<indizio3>a lui Ë intitolata una unit‡ di misura del S.I.</indizio3>
+		<indizio2>il suo nome √® collegato alla "guerra delle correnti"</indizio2>
+		<indizio3>a lui √® intitolata una unit√† di misura del S.I.</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -635,7 +635,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>rispondi all'indovinello</indizio0>
 		<indizio1>se hai risposto 2 sei troppo avaro!</indizio1>
 		<indizio2>se rispondi 100 sei fuori di testa</indizio2>
-		<indizio3>la verit‡ non Ë mai agli estremi</indizio3>
+		<indizio3>la verit√† non √® mai agli estremi</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -701,7 +701,7 @@ ed assai triste Ë il passato"</indizio1>
 	<domanda>
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/calendario.jpg</risorsa>
-		<risposta>palais dÈcouverte</risposta>
+		<risposta>palais d√©couverte</risposta>
 		<indizio0>a cosa fa riferimento il calendario?</indizio0>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
@@ -734,7 +734,7 @@ ed assai triste Ë il passato"</indizio1>
 (esempio: scrivere BDGH per indicare che gli esagoni B D G H dovrebbero essere verdi; rispettare l'ordine alfabetico)</indizio0>
 		<indizio1>parti dalla base e risali verso l'alto</indizio1>
 		<indizio2>sono semplici moltiplicazioni</indizio2>
-		<indizio3>pi˘ per meno meno</indizio3>
+		<indizio3>pi√π per meno meno</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -760,7 +760,7 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/nonno.jpg</risorsa>
 		<risposta>29/02/1896</risposta>
 		<indizio0>riporta la data nel formato gg/mm/aaaa</indizio0>
-		<indizio1>la chiamata alle armi riguardÚ i nati prima del 1900</indizio1>
+		<indizio1>la chiamata alle armi riguard√≤ i nati prima del 1900</indizio1>
 		<indizio2>il nonno non festeggiava il compleanno tutti gli anni</indizio2>
 		<indizio3>il nonno era nato il 29 febbraio</indizio3>
 		<attesa1>1</attesa1>
@@ -776,7 +776,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>cosa caratterizza questa posizione?</indizio0>
 		<indizio1>le coordinate sono crittografate con il disco rotante</indizio1>
 		<indizio2>35.126114    -106.536564</indizio2>
-		<indizio3>Ë una serie TV</indizio3>
+		<indizio3>√® una serie TV</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -804,7 +804,7 @@ ed assai triste Ë il passato"</indizio1>
 		<indizio0>a cosa fa riferimento il calcolo riportato nel brano?</indizio0>
 		<indizio1>72 sono i battiti</indizio1>
 		<indizio2>5 litri di sangue</indizio2>
-		<indizio3>la gittata sistolica per un individuo di media statura Ë 70 ml</indizio3>
+		<indizio3>la gittata sistolica per un individuo di media statura √® 70 ml</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -819,7 +819,7 @@ ed assai triste Ë il passato"</indizio1>
 (se non vedi chiaro, forse devi cambiare gli occhiali...)</indizio0>
         <indizio1>...almeno scegli un dispositivo con un monitor grande</indizio1>
         <indizio2>...un browser alternativo forse potrebbe servire</indizio2>
-        <indizio3>la scelta giusta Ë quella di valutare tutte le possibilit‡: Android, iOS, Win/Chrome, Win/Edge, Win/Mozilla, Win/Opera</indizio3>
+        <indizio3>la scelta giusta √® quella di valutare tutte le possibilit√†: Android, iOS, Win/Chrome, Win/Edge, Win/Mozilla, Win/Opera</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -887,9 +887,9 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/geremia.jpg</risorsa>
 		<risposta>difficile</risposta>
 		<indizio0>...in italiano</indizio0>
-		<indizio1>Ë in codice</indizio1>
+		<indizio1>√® in codice</indizio1>
 		<indizio2>c'entra il profeta Geremia</indizio2>
-		<indizio3>Ë in codice Atbash (alfabeto italiano)</indizio3>
+		<indizio3>√® in codice Atbash (alfabeto italiano)</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -915,13 +915,13 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/divinita_porta.jpg</risorsa>
 		<risposta>li shimin</risposta>
 		<indizio0>di quale imperatore furono alleati?</indizio0>
-		<indizio1>divinit‡ della Porta</indizio1>
+		<indizio1>divinit√† della Porta</indizio1>
 		<indizio2>Qin Qiong, Yuchi Gong</indizio2>
 		<indizio3>imperatore della dinastia Tang</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
- 		<autore>gaudino divinit‡ della porta</autore>
+ 		<autore>gaudino divinit√† della porta</autore>
 	</domanda>
 
 	<domanda>
@@ -946,7 +946,7 @@ ed assai triste Ë il passato"</indizio1>
 (esempio: scrivere BDF per indicare che le asserzioni B D F sono VERE)
 		</indizio0>
 		<indizio1>sono affermazioni autorefernziali</indizio1>
-		<indizio2>Ë la variante di un gioco classico</indizio2>
+		<indizio2>√® la variante di un gioco classico</indizio2>
 		<indizio3>vere+false=10</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -974,7 +974,7 @@ ed assai triste Ë il passato"</indizio1>
 		<risposta>aeroporto</risposta>
 		<indizio0>cosa accomuna questi illustri personaggi?</indizio0>
 		<indizio1>Raffaello Sanzio di Ancona, Giuglielmo Marconi di Bologna...</indizio1>
-		<indizio2>chi ama viaggiare difficilmente puÚ farne a meno</indizio2>
+		<indizio2>chi ama viaggiare difficilmente pu√≤ farne a meno</indizio2>
 		<indizio3>per entrarci occorre avere un biglietto</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -1002,7 +1002,7 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/artista.jpg</risorsa>
 		<risposta>botero</risposta>
 		<indizio0>identikit</indizio0>
-		<indizio1>Ë un artista contemporaneo</indizio1>
+		<indizio1>√® un artista contemporaneo</indizio1>
 		<indizio2>rappresenta un mondo florido e opulento</indizio2>
 		<indizio3>la sua "Gioconda" fu esposta all'Expo 2015</indizio3>
 		<attesa1>1</attesa1>
@@ -1016,7 +1016,7 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>audio/pil.mp3</risorsa>
 		<risposta>robert kennedy</risposta>
 		<indizio0>chi pronuncia questo discorso?</indizio0> 
-		<indizio1>presso una universit‡ americana</indizio1>
+		<indizio1>presso una universit√† americana</indizio1>
 		<indizio2>si parla di PIL</indizio2>
 		<indizio3>too much and for too long...</indizio3>
 		<attesa1>1</attesa1>
@@ -1031,7 +1031,7 @@ ed assai triste Ë il passato"</indizio1>
 		<risposta>sale</risposta>
 		<indizio0>quale parola collega queste immagini?</indizio0>
 		<indizio1>considera anche la parola "pepe"</indizio1>
-		<indizio2>d‡ sapore</indizio2>
+		<indizio2>d√† sapore</indizio2>
 		<indizio3>si sparge sulle strade ghiacciate</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -1043,10 +1043,10 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/caravaggio.jpg</risorsa>
 		<risposta>10 ottobre 1582</risposta>
-		<indizio0>cos'Ë inverosimile in questo brano e perchÈ?</indizio0>
+		<indizio0>cos'√® inverosimile in questo brano e perch√©?</indizio0>
 		<indizio1>soffermati sulle date</indizio1>
 		<indizio2>testimonianze sul carteggio non ce ne sono</indizio2>
-		<indizio3>nel 1582 Ë introdotto il calendario Gregoriano e quindi...</indizio3>
+		<indizio3>nel 1582 √® introdotto il calendario Gregoriano e quindi...</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -1058,9 +1058,9 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/figure_retoriche.jpg</risorsa>
 		<risposta>litote</risposta>
 		<indizio0>cosa accomuna queste frasi?</indizio0>
-		<indizio1>Ë una particolare forma espressiva</indizio1>
-		<indizio2>non Ë un'allegoria</indizio2>
-		<indizio3>Ë una figura retorica che afferma mediante la negazione del contrario</indizio3>
+		<indizio1>√® una particolare forma espressiva</indizio1>
+		<indizio2>non √® un'allegoria</indizio2>
+		<indizio3>√® una figura retorica che afferma mediante la negazione del contrario</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -1084,7 +1084,7 @@ ed assai triste Ë il passato"</indizio1>
 	<domanda>
 		<tipo>sequenza</tipo>
 		<risorsa>immagini/oggetti_simbolo.jpg</risorsa>
-		<risposta>monroe daguerre bÌrÛ</risposta>
+		<risposta>monroe daguerre b√≠r√≥</risposta>
 		<indizio0>a quali personaggi famosi sono collegati questi oggetti?</indizio0>
 		<indizio1>fai il /refresh</indizio1>
 		<indizio2>fai il /refresh</indizio2>
@@ -1127,10 +1127,10 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/paradiso.jpg</risorsa>
 		<risposta>prato</risposta>
-		<indizio0>qual Ë la via per La Porta del Paradiso?</indizio0>
-		<indizio1>ponte Santa Trinit‡ Ë una scorciatoia</indizio1>
+		<indizio0>qual √® la via per La Porta del Paradiso?</indizio0>
+		<indizio1>ponte Santa Trinit√† √® una scorciatoia</indizio1>
 		<indizio2>siamo a Firenze</indizio2>
-		<indizio3>La Porta del Paradiso Ë un Hotel</indizio3>
+		<indizio3>La Porta del Paradiso √® un Hotel</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -1141,10 +1141,10 @@ ed assai triste Ë il passato"</indizio1>
 		<tipo>immagine</tipo>
 		<risorsa>immagini/signorsi.jpg</risorsa>
 		<risposta>specchio</risposta>
-		<indizio0>quando tutti sono d'accordo, quello Ë il momento di cambiare il proprio punto di vista!</indizio0>
+		<indizio0>quando tutti sono d'accordo, quello √® il momento di cambiare il proprio punto di vista!</indizio0>
 		<indizio1>la statistica ha la sua valenza</indizio1>
-		<indizio2>statisticamente c'Ë qualcosa che non va</indizio2>
-		<indizio3>osserva la scolaresca: quasi tutti mancini? la foto Ë...</indizio3>
+		<indizio2>statisticamente c'√® qualcosa che non va</indizio2>
+		<indizio3>osserva la scolaresca: quasi tutti mancini? la foto √®...</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
@@ -1156,8 +1156,8 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/tarocchi.jpg</risorsa>
 		<risposta>il matto</risposta>
 		<indizio0>il mistero della vita</indizio0>
-		<indizio1>líintera vita umana Ë solo un gioco, il semplice gioco della Follia</indizio1>
-		<indizio2>Ë un arcano</indizio2>
+		<indizio1>l‚Äôintera vita umana √® solo un gioco, il semplice gioco della Follia</indizio1>
+		<indizio2>√® un arcano</indizio2>
 		<indizio3>...un arcano maggiore</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
@@ -1170,9 +1170,9 @@ ed assai triste Ë il passato"</indizio1>
 		<risorsa>immagini/albero.jpg</risorsa>
 		<risposta>pino</risposta>
 		<indizio0>quale parola collega queste immagini?</indizio0>
-		<indizio1>puÚ avere la "testa" a ombrello</indizio1>
+		<indizio1>pu√≤ avere la "testa" a ombrello</indizio1>
 		<indizio2>faceva ombra alle ceneri di Pirandello</indizio2>
-		<indizio3>Ë una conifera</indizio3>
+		<indizio3>√® una conifera</indizio3>
 		<attesa1>1</attesa1>
 		<attesa2>2</attesa2>
 		<attesa3>3</attesa3>
