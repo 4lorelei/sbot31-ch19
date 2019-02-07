@@ -25,9 +25,9 @@ if(!$update)
 //Cavalieri e furfanti - (LaraLuu31-Cavalieriefurfanti)
 //$token="487143922:AAFRNOJ_fVVF1tQ4T_9KDSA1loMSPJZjycw";
 //Chestnut2019 - (LaraLuu31-Chestnut2019)
-//$token="738410474:AAHdHaQ0M3pOmMf1uU9boanIc4JtFy3V5ww";
+$token="738410474:AAHdHaQ0M3pOmMf1uU9boanIc4JtFy3V5ww";
 //BigBugs - (LaraLuu test - BigBugs evo)
-$token="327275867:AAFGxtaZMUmwR08BIzI542RmdYfMrwPn36w";
+//$token="327275867:AAFGxtaZMUmwR08BIzI542RmdYfMrwPn36w";
 
 $botUrl = "https://api.telegram.org/bot".$token."/sendPhoto";
 $botUrlVoice = "https://api.telegram.org/bot".$token."/sendVoice";
